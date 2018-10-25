@@ -1,0 +1,33 @@
+Drew Brees ' TD run in OT lifts Saints past Falcons 43 - 37	0,10,PLAYER;32,38,TEAM;44,51,TEAM
+ATLANTA ( AP ) On the day he became the NFL 's career leader in completed passes , Drew Brees ' biggest plays came as a runner .	0,7,CITY;10,12,ORG;40,43,ORG;83,93,PLAYER
+Brees ' 1-yard run capped an 80-yard touchdown drive to open overtime that lifted the New Orleans Saints to a 43 - 37 win over the Atlanta Falcons on Sunday .	0,5,PLAYER;86,104,TEAM;131,146,TEAM;150,156,DATETIME
+That came after his 7-yard score late in the fourth quarter forced the overtime . After the Saints won the coin toss , Brees and the Saints held the ball for more than seven minutes .	92,98,TEAM;119,124,PLAYER;133,139,TEAM
+Brees jumped over the pile on a quarterback keeper after his apparent 3-yard TD pass to Alvin Kamara was overturned . A review determined Kamara 's knee was down before he crossed the goal line . Brees scored on the following play , giving the Saints ( 2 - 1 ) the win .	0,5,PLAYER;88,100,PLAYER;138,144,PLAYER;196,201,PLAYER;244,250,TEAM
+' ' This was a wild one , '' said Brees , who passed for 396 yards and three touchdowns and ran for two scores . Kamara had 15 catches for 124 yards and ran for 66 yards .	34,39,PLAYER;113,119,PLAYER
+Brees ' biggest play before the winner might have been his improbable 7-yard scoring run with 1:15 remaining that forced overtime . He ran to his left and then spun to avoid tackle attempts by Brian Poole and Robert Alford .	0,5,PLAYER;193,204,PLAYER;209,22,PLAYER
+' ' At some point , I felt they were coming to take my head off and I could probably spin out of it , '' Brees said , adding he now has film evidence to show the youth flag football team he coaches that ' ' spin moves work . Spin moves are good . ''	105,110,PLAYER
+With his 14th completed pass , the 39-year - old Brees broke the record of 6,300 career completions set by Hall of Famer Brett Favre . Brees set the mark with a 17-yard pass to Michael Thomas in the second quarter .	49,54,PLAYER;107,120,AWARD;121,132,PLAYER;135,140,PLAYER;177,191,PLAYER
+' ' I 'm just very grateful , '' Brees said . ' ' I hope there 's a lot more coming . I just think about all the people who have had a hand in that . A lot of hands have caught a lot of passes . ... They are all a part of this . ''	33,38,PLAYER
+Atlanta 's Matt Ryan had his first career game with five scoring passes . Calvin Ridley became the first Atlanta rookie with three scoring catches . That was n't enough for the Falcons ( 1 - 2 ) against Brees and the high - scoring Saints , who gained 534 yards .	0,7,TEAM;11,20,PLAYER;74,87,PLAYER;105,112,TEAM;177,18,TEAM;203,208,PLAYER;232,238,TEAM
+Ryan bemoaned a lost opportunity when the Falcons were forced to punt when stopped at the Atlanta 44 with 25 seconds remaining in overtime .	0,4,PLAYER;42,49,TEAM;90,97,TEAM
+' ' We had chances to finish the game today and we did n't do that , '' Ryan said . ' ' That 's disappointing . ''	72,76,PLAYER
+Saints coach Sean Payton called the defensive stop ' ' a huge part of the win . ''	0,6,TEAM;13,24,BOSS
+Ryan passed for 374 yards , including 146 to Ridley , who had seven receptions , including a 75-yard TD .	0,4,PLAYER;45,51,PLAYER
+Ridley 's third scoring catch against the Saints was a 9-yarder early in the third quarter that held up following a review .	0,6,PLAYER;42,48,TEAM
+Ryan 's five touchdown passes tied the team record set by Wade Wilson on Dec. 13 , 1992 , at Tampa Bay .	0,4,PLAYER;58,69,PLAYER;73,87,DATETIME;93,102,TEAM
+The fifth scoring pass to Mohamed Sanu came after Saints defensive tackle David Onyemata was called for unnecessary roughness on Matt Bryant 's 29-yard field goal . With the penalty , the Falcons ' offense came back on the field .	26,38,PLAYER;50,56,TEAM;74,88,PLAYER;129,140,PLAYER;188,195,TEAM
+Ridley beat P.J. Williams on his first two scoring catches , an 18-yarder in the first quarter and the 75-yarder in the second quarter .	0,6,PLAYER;12,25,PLAYER
+The Saints made a defensive switch , moving Ken Crawley into coverage on Ridley . Crawley was called for pass interference on a deep incompletion to Ridley early in the third quarter that gave Atlanta a first down at the New Orleans 5 . On second down from the 9 , Ridley 's third scoring catch gave the Falcons a 21 - 16 lead .	4,10,TEAM;44,55,PLAYER;73,79,PLAYER;82,89,PLAYER;149,155,PLAYER;193,200,TEAM;221,232,TEAM;265,271,PLAYER;304,311,TEAM
+Brees completed his first four passes , including a 19-yard scoring pass to Ted Ginn Jr. on the Saints ' opening drive .	0,5,PLAYER;76,88,PLAYER;96,102,TEAM
+INJURY REPORT
+Saints reserve cornerback Patrick Robinson was carted from the field early in the third quarter with a left ankle injury . He did not return .	0,6,TEAM;26,42,PLAYER
+Falcons safety Ricardo Allen left early in overtime with a left calf injury . He was helped to the sideline and then driven on a cart to the locker room . ... Reserve cornerback Justin Bethel injured a knee in the third quarter . ... Atlanta rookie linebacker Foyesade Oluokun left in the fourth quarter with an ankle injury .	0,7,TEAM;15,28,PLAYER;178,191,PLAYER;234,241,TEAM;260,276,PLAYER
+THOMAS THRIVING	0,6,PLAYER
+Thomas had 10 catches for 129 yards . His 38 catches are the most by an NFL player in his team 's first three games to start a season . His 28 catches through two games also were a record .	0,6,PLAYER;72,75,ORG
+PASSING MONTANA	8,15,PLAYER
+Ryan 's 75-yard scoring pass to Ridley was his 34th career TD pass against the Saints , the most by any quarterback . He surpassed Joe Montana 's 33 TD passes against New Orleans . Ryan added three more , leaving his total at 37 .	0,4,PLAYER;32,38,PLAYER;79,85,TEAM;131,142,PLAYER;167,178,TEAM;181,185,PLAYER
+DROPS FOR GINN	10,14,PLAYER
+Ginn dropped a sideline pass on a second - quarter drive that ended with a 49-yard field goal by Will Lutz bouncing off the left upright and over the cross bar . Later in the quarter , Ginn juggled a pass for an incompletion as he ran out of bounds on the Atlanta sideline . He finished with three catches for 12 yards .	0,4,PLAYER;97,106,PLAYER;185,189,PLAYER;256,263,TEAM
+UP NEXT
+Saints : at New York Giants next Sunday .	0,6,TEAM;12,27,TEAM;33,39,DATETIME
+Falcons : Play their third straight home game against the Cincinnati Bengals next Sunday .	0,7,TEAM;58,76,TEAM;82,88,DATETIME

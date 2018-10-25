@@ -1,0 +1,30 @@
+49ers hang on to beat Lions 30 - 27	0,5,TEAM;22,27,TEAM
+SANTA CLARA , Calif. ( AP ) Another miscommunication almost led to another game - altering interception for Jimmy Garoppolo .	0,11,CITY;14,20,STATE;23,25,ORG;108,123,PLAYER
+Only this time , the San Francisco 49ers got bailed out by a flag and held on to beat the Detroit Lions .	21,40,TEAM;90,103,TEAM
+Garoppolo threw two touchdown passes and caught a break when a defensive holding call negated a late interception as the 49ers held on to beat the Lions 30 - 27 on Sunday .	0,9,PLAYER;121,126,TEAM;147,152,TEAM;164,170,DATETIME
+' ' Very happy , '' Garoppolo said of his emotions after realizing a penalty wiped out his mistake . ' ' I did n't see what happened on that with the flag and everything but very happy . ''	20,29,PLAYER
+The big play came after Detroit ( 0 - 2 ) had cut San Francisco 's 30 - 13 lead to three points thanks to two fourth - quarter touchdown passes by Matthew Stafford . Then with the 49ers ( 1 - 1 ) facing a third - and-2 near midfield , Garoppolo threw a quick out to Matt Breida . Tracy Walker stepped in front and intercepted the pass , returning it to the San Francisco 7 .	24,31,TEAM;50,63,TEAM;147,163,PLAYER;180,185,TEAM;235,244,PLAYER;266,277,PLAYER;280,292,PLAYER;357,370,TEAM
+But Quandre Diggs was called for holding George Kittle on the other side of the field , giving the 49ers a reprieve .	4,17,PLAYER;41,54,PLAYER;99,104,TEAM
+' ' I did n't see it , but it does n't matter , '' Detroit coach Matt Patricia said . ' ' That 's the way the game is being called all the way across the board . We just ca n't do it , make plays and then the penalties . ''	51,58,TEAM;65,78,BOSS
+Last week a wrong pattern run by Kendrick Bourne led to a pick - six by Garoppolo , who threw three interceptions in a 24 - 16 loss at Minnesota that gave him his first loss after winning his first seven career starts .	33,48,PLAYER;72,81,PLAYER;135,144,TEAM
+Garoppolo threw a 4-yard TD pass to Bourne in the second quarter Sunday and an 11-yarder to Garrett Celek in the third to hand Patricia , his old friend from their New England days , a second straight loss to begin his tenure as coach of the Lions . Garoppolo finished 18 for 26 for 206 yards , but was sacked six times .	0,9,PLAYER;36,42,PLAYER;65,71,DATETIME;92,105,PLAYER;127,135,BOSS;164,175,TEAM;242,247,TEAM;250,259,PLAYER
+Breida did much of the rest by rushing for 138 yards and breaking the game open with a 66-yard touchdown run in the third quarter with help from impressive downfield blocking by receiver Pierre Garcon . It was the longest run for San Francisco since Colin Kaepernick scored on a 90-yard run against the Chargers on Dec. 20 , 2014 .	0,6,PLAYER;187,200,PLAYER;230,243,TEAM;250,266,PLAYER;303,311,TEAM;315,329,DATETIME
+' ' It 's like backyard football , '' Breida said . ' ' You see someone break a long run , see someone out there running , you have to block someone . That 's what he did . ''	38,44,PLAYER
+Stafford was much sharper than he was last week for the Lions when he threw four interceptions . He went 34 for 53 for 347 yards , three touchdowns and no interceptions but it was n't enough .	0,8,PLAYER;56,61,TEAM
+He threw TD passes in the fourth quarter to Marvin Jones Jr. and Michael Roberts but was unable to lead another scoring drive after taking over at the 16 with 1:08 to play . He threw an incomplete pass to Theo Riddick on fourth - and-2 from his 39 with 14 seconds left , ending the comeback attempt .	44,60,PLAYER;65,80,PLAYER;205,217,PLAYER
+' ' We just have to make a few more plays , whether it be earlier in the game or later , '' Stafford said . ' ' There 's a million plays throughout the game we can clean up and be better , and it starts with me . ''	92,100,PLAYER
+EJECTION
+Detroit running back LeGarrette Blount was ejected in the third quarter . Blount took exception to Elijah Lee pushing Stafford as he stepped out of bounds . Blount was standing on the sideline right in front of the play and went on the field and pushed Lee . Blount was assessed a personal foul and ejected .	0,7,TEAM;21,38,PLAYER;74,80,PLAYER;99,109,PLAYER;118,126,PLAYER;157,163,PLAYER;253,256,PLAYER;259,265,PLAYER
+THIRD - QUARTER WOES
+The Lions once again struggled coming out of halftime . Detroit was outscored 31 - 7 in the third quarter in a loss to the Jets last week and then 14 - 3 by the 49ers in this game .	4,9,TEAM;56,63,TEAM;123,127,TEAM;161,166,TEAM
+RECORD - SETTING
+The 49ers had three drives stall after getting inside the red zone in part because Detroit sacked Garoppolo three times on plays that started inside the 20 . That led to three field goals for Robbie Gould , giving him 29 straight makes , two more than Phil Dawson 's franchise record set in 2013 .	4,9,TEAM;83,90,TEAM;98,107,PLAYER;192,204,PLAYER;252,263,PLAYER;291,295,DATETIME
+GOOD RETURNS
+Rookie D.J. Reed started the second half with a long kickoff return that initially appeared to go for a touchdown . But he was called for a facemask penalty while giving a stiff arm and was only credited with a 90-yard return , the longest for the Niners since Kyle Williams had a 94-yarder in 2012 . San Francisco still managed to get a TD with a 26-yard drive capped by Garoppolo 's pass to Celek .	7,16,PLAYER;248,254,TEAM;261,274,PLAYER;294,298,DATETIME;301,314,TEAM;372,381,PLAYER;393,398,PLAYER
+INJURIES
+Lions CB Darius Slay left with a concussion in the third quarter . ... 49ers S Jaquiski Tartt left in the second half with a shoulder injury .	0,5,TEAM;9,20,PLAYER;71,76,TEAM;79,93,PLAYER
+ANTHEM
+Injured 49ers WR Marquise Goodwin raised his fist during the national anthem . No other player had a visible protest .	8,13,TEAM;17,33,PLAYER
+UP NEXT
+Lions : Host New England on Sunday night .	0,5,TEAM;13,24,TEAM;28,34,DATETIME
+49ers : Visit Kansas City on Sunday .	0,5,TEAM;14,25,TEAM;29,35,DATETIME

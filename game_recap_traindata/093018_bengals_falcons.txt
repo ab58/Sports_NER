@@ -1,0 +1,34 @@
+Dalton 's late TD pass to Green lifts Bengals over Falcons	0,6,PLAYER;26,31,PLAYER;38,45,TEAM;51,58,TEAM
+ATLANTA ( AP ) Watching from the Cincinnati sideline , Bengals cornerback Dre Kirkpatrick could n't stop smiling as he watched Bengals receivers Tyler Boyd and A.J. Green shred the Atlanta Falcons ' secondary on the game - winning drive .	0,7,CITY;10,12,ORG;33,43,TEAM;55,62,TEAM;74,89,PLAYER;127,134,TEAM;145,155,PLAYER;160,170,PLAYER;181,196,TEAM
+' ' They went crazy , '' Kirkpatrick said . ' ' Watching them do what they do puts big smiles on everybody 's faces . This is what it 's about . ''	25,36,PLAYER
+Andy Dalton threw a 13-yard touchdown pass to Green with 7 seconds remaining , lifting Cincinnati to a 37 - 36 win over the Falcons on Sunday in a game that extends the first - place Bengals ' strong start .	0,11,PLAYER;46,51,PLAYER;87,97,TEAM;124,131,TEAM;135,141,DATETIME;183,190,TEAM
+Dalton completed four passes to Boyd , including two on fourth downs , as he moved the Bengals 75 yards on 16 plays in about four minutes .	0,6,PLAYER;32,36,PLAYER;87,94,TEAM
+Green , the former University of Georgia star making his first return to the state of Georgia , made a diving catch in the right side of the end zone to cap the drive . He had four catches for 78 yards .	0,5,PLAYER;19,40,TEAM;86,93,STATE
+Running back Joe Mixon , who missed his second straight game for Cincinnati while recovering from knee surgery , ran down the sideline to celebrate with Green in the end zone .13,22,PLAYER;65,75,TEAM;153,158,PLAYER
+' ' Every time we were in the huddle we were encouraging each other and saying we ' ve got to find a way , '' said tight end C.J. Uzomah . ' ' We made it happen . ''	125,136,PLAYER
+Giovani Bernard ran for 69 yards and two touchdowns for Cincinnati ( 3 - 1 ) .	0,15,PLAYER;56,66,TEAM
+Kirkpatrick said the Bengals are ' ' fighting for each other , standing up for each other , believing in each other . In previous years , we have n't had that . ''	0,11,PLAYER;21,28,TEAM
+Matt Ryan continued his resurgence by throwing three scoring passes , including two to rookie Calvin Ridley , for the Falcons .	0,9,PLAYER;94,107,PLAYER;118,125,TEAM
+As was the case last week , when he had his first career game with five touchdown passes in a 43 - 37 overtime loss to New Orleans , Ryan had too little support from a defense missing three injured starters , despite three sacks from Takk McKinley .	119,130,TEAM;133,137,PLAYER;234,247,PLAYER
+The Falcons ( 1 - 3 ) topped 30 points for the third straight week . Ryan , the 2016 NFL MVP , has thrown eight touchdown passes in his past two weeks and has 10 through four games after throwing only 20 in 2017 .	4,11,TEAM;69,73,PLAYER;80,84,DATETIME;85,88,ORG;89,92,AWARD;207,211,DATETIME
+Falcons coach Dan Quinn said his team lacks the instinct needed ' ' to close the door '' with a lead . ' ' We 're going to develop that instinct , '' he said . ' ' We do not have it as we need it right now . ''	0,7,TEAM;14,23,PLAYER
+The Bengals , protecting at least a share of the AFC North lead , have enjoyed a strong start despite playing three of their first four games on the road . They play six of their next eight at home .	4,11,TEAM;49,58,ORG
+Atlanta 's Matt Bryant , who kicked three field goals , including a 55-yard field goal in the second quarter , was good from 32 yards to give the Falcons a 36 - 31 lead with 4:15 remaining .	0,7,TEAM;11,22,PLAYER;146,153,TEAM
+That was too much time for Dalton , who completed 29 of 41 passes for 336 yards and three touchdowns and one interception .	27,33,PLAYER
+Bengals tight end Tyler Eifert had four catches for 38 yards , including a 15-yard scoring catch in the first quarter , before suffering a gruesome lower right leg injury early in the third quarter .0,7,TEAM;18,30,PLAYER
+Eifert , the team 's third - leading receiver entering the game , caught a 2-yard pass and was tackled by De'Vondre Campbell and Jack Crawford . Eifert brought his hands up to his helmet as he was on his back in obvious pain . His leg stabilized by the medical staff , Eifert received encouragement from teammates before he was carted off the field .	0,6,PLAYER;106,124,PLAYER;129,142,PLAYER;145,151,PLAYER;269,275,PLAYER
+INJURY REPORT
+Bengals halfback Mark Walton did not return and was being treated for a possible concussion after a helmet - to - helmet penalty hit by Brian Poole near the end of the third . Falcons defensive tackle Grady Jarrett had an ankle injury late in the fourth and did not return .	0,7,TEAM;17,28,PLAYER;136,147,PLAYER;176,183,TEAM;201,214,PLAYER
+RISING STAR
+Kirkpatrick talked during the week about winning bragging rights with fellow former Alabama star Julio Jones , who had nine catches for 173 yards . Kirkpatrick was impressed with Ridley , another former Alabama player who had four catches for 54 yards . Ridley had scoring catches of 11 and 30 yards , giving him five in his past two games and six for the season .	0,11,PLAYER;84,91,TEAM;97,108,PLAYER;148,159,PLAYER;179,185,PLAYER;203,210,TEAM;254,260,PLAYER
+' ' That Ridley kid , the boy is about to take the NFL by storm , '' Kirkpatrick said . ' ' That boy if not this year , if not next year , he 's definitely going to be top 10 in the league . ''9,15,PLAYER;51,54,ORG;69,80,PLAYER
+PRESIDENTIAL VISIT
+Former President Jimmy Carter was given a No . 39 Falcons jersey , as the 39th U.S. president . In a pregame ceremony , Carter was presented a birthday cake by team owner Arthur Blank one day before Carter 's 94th birthday .	0,16,TITLE;17,29,FIGURE;50,57,TEAM;79,83,COUNTRY;120,126,FIGURE;171,183,BOSS;199,205,FIGURE
+Carter also rang the pregame train horn and yelled ' ' Rise Up '' to Falcons fans .	0,6,FIGURE;69,76,TEAM
+MENDING
+Each team was without its top running back . Devonta Freeman missed his third straight game for Atlanta with a sore right knee . Mixon was held out for the second straight week for the Bengals after having debris removed from his right knee .	45,60,PLAYER;96,103,TEAM;129,134,PLAYER;185,192,TEAM
+LONG TIME
+The Bengals lead the series 9 - 5 following their first win in Atlanta since a 16 - 10 victory on Nov. 15 , 1987 , at old Atlanta - Fulton County Stadium .	4,11,TEAM;63,70,TEAM;98,112,DATETIME;122,153,VENUE
+UP NEXT
+Bengals : host Miami Dolphins next Sunday .	0,7,TEAM;15,29,TEAM;35,41,DATETIME
+Falcons : Visit the Pittsburgh Steelers on Sunday in first road game since opening season at Philadelphia .	0,7,TEAM;20,39,TEAM;43,49,DATETIME;93,105,TEAM

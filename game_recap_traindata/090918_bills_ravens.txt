@@ -1,0 +1,37 @@
+Ravens get defensive in 47 - 3 rout of inept Bills	0,6,TEAM;45,50,TEAM
+BALTIMORE ( AP ) Following a lengthy training camp and five meaningless preseason outings , the Baltimore Ravens finally got the chance to evaluate themselves in a game that counts .	0,9,CITY;12,14,ORG;96,112,TEAM
+Judging by their 47 - 3 rout of the Buffalo Bills on a rainy Sunday , the Ravens might be pretty darn good .	36,49,TEAM;61,67,DATETIME;74,80,TEAM
+Then again , that might be tough to determine : The Bills looked absolutely awful .	52,57,TEAM
+Baltimore harassed and embarrassed Buffalo quarterback Nathan Peterman , and the Ravens got three touchdown passes from Joe Flacco in an opener worth savoring .	0,9,TEAM;35,42,TEAM;55,70,PLAYER;81,87,TEAM;120,130,PLAYER
+' ' Anytime you go get a win in Week 1 , it 's great , '' Flacco said . ' ' Anytime you have a performance like we did , it 's great . We just have to make sure we build on this . ''	32,38,DATETIME;58,64,PLAYER
+Flacco 's TD passes were distributed to each of the three new receivers Baltimore added during the offseason to enhance a lackluster passing attack .	0,6,PLAYER
+The 11-year veteran went 25 for 34 for 236 yards before being replaced in the third quarter by rookie Lamar Jackson , who did little more than hand off the ball after entering with a 40 - 0 lead .	102,115,PLAYER
+Making their debut under defensive coordinator Don Martindale , the Ravens held Buffalo to 33 yards and no first downs in going up 26 - 0 at the half .	47,61,BOSS;68,74,TEAM;80,87,TEAM
+' ' Whatever they threw at us , we were able to answer , '' linebacker Terrell Suggs said .	71,84,PLAYER
+LeSean McCoy finished with 22 yards on seven carries and the Bills had 70 yards passing .	0,12,PLAYER;61,66,TEAM
+' ' LeSean McCoy is a threat . You have to start with that , '' Ravens coach John Harbaugh said . ' ' Then you have to get to the quarterback and make him throw quick . That 's what our guys were able to do today . ''	4,16,PLAYER;64,70,TEAM;77,90,BOSS
+Making his third NFL start , Peterman went 5 for 18 for 24 yards and two interceptions for a quarterback rating of 0.0 .	17,20,ORG;29,37,PLAYER
+After Baltimore followed two Buffalo miscues with a pair of touchdowns for a 40 - 0 lead , coach Sean McDermott turned to rookie Josh Allen , who went 6 for 15 for 74 yards in Buffalo 's most lopsided defeat since a 56 - 10 loss to New England in November 2007 .	6,15,TEAM;29,36,TEAM;97,111,BOSS;129,139,PLAYER;176,183,TEAM;232,243,TEAM;247,260,DATETIME
+' ' Obviously , it was n't a good showing , '' Peterman said . ' ' We 've got to do a lot better , starting with me . ''	47,55,PLAYER
+There 's a quarterback controversy brewing in Buffalo . Asked about a possible change in starters , McDermott replied , ' ' I 'm going to look at everything . ... It 's too early to go one way or another . ''	46,53,TEAM;100,109,BOSS
+If that was Buffalo 's only problem , it might be easier to overcome .	12,19,TEAM
+' ' We need to focus more on the entire team , not just the quarterback , '' receiver Zay Jones said . ' ' Offensive line , running backs , wide receivers , defense . We have to do better . ''	86,95,PLAYER
+Baltimore had six sacks and limited Buffalo to 153 yards .	0,9,TEAM;36,43,TEAM
+The Ravens and Bills both finished 9 - 7 last year , but Buffalo won the tiebreaker and earned its first playoff berth since 1999 . Since then , however , the Bills sent quarterback Tyrod Taylor to Cleveland and had to replace two starting offensive linemen .	4,10,TEAM;15,20,TEAM;57,64,TEAM;125,129,DATETIME;159,164,TEAM;182,194,PLAYER;198,207,TEAM
+The new - look Bills were not very pretty .	15,20,TEAM
+Buffalo won the opening coin toss , deferred until the second half and subsequently offered little resistance while Baltimore mounted a 10-play drive that ended with an 8-yard touchdown run by Alex Collins .	0,7,TEAM;116,125,TEAM;193,205,PLAYER
+Baltimore quickly added a 7-yard touchdown pass from Flacco to John Brown , who was signed as a free agent after playing with Arizona last year .	0,9,TEAM;53,59,PLAYER;63,73,PLAYER;126,133,TEAM
+A 51-yard punt return by rookie Janarion Grant set up a field goal in the second quarter , and Baltimore added another field goal after an interception by Tony Jefferson in Buffalo territory .	32,46,PLAYER;95,104,TEAM;155,169,PLAYER;173,180,TEAM
+Michael Crabtree made a tippy - toe catch in the back corner of the end zone for a 12-yard TD late in the half , and Willie Snead scored on a 13-yard catch to make it 33 - 0 in the third quarter .	0,16,PLAYER;117,129,PLAYER
+Crabtree was signed in March after a three - year run with Oakland , and Snead was secured as a restricted free agent from New Orleans .	0,8,PLAYER;23,28,DATETIME;59,66,TEAM;73,78,PLAYER;123,134,TEAM
+SPREAD THE WEALTH
+To get touchdowns from each of their new receivers was gratifying to Harbaugh , who hopes his team can end a three - year playoff drought .	69,77,BOSS
+' ' To see Joe spread the ball around like that , and to see all the guys step up and play plays was the thing I 'm most excited about , '' the coach said .
+INJURIES
+Bills : CB Taron Johnson left with a shoulder injury and did not return .	0,5,TEAM;11,24,PLAYER
+ROOKIE WATCH
+Bills : Linebacker Tremaine Edmunds is the first Bills rookie with a sack in the season opener since 2002 and first with a forced fumble since 2013 .	0,5,TEAM;19,35,PLAYER;49,54,TEAM;101,105,DATETIME;143,147,DATETIME
+Ravens : Before entering in the third quarter , Jackson was used sporadically - mostly as a decoy , although he did run once ( for no gain ) and throw an incomplete pass .	0,6,TEAM;48,55,PLAYER
+UP NEXT
+Buffalo opens its home schedule against the Los Angeles Chargers next Sunday afternoon .	0,7,TEAM;44,64,TEAM;70,76,DATETIME
+Baltimore travels to Cincinnati for a Thursday night matchup between AFC North rivals .	0,9,TEAM;21,31,CITY;38,46,DATETIME;69,78,ORG

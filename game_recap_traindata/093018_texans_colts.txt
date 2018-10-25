@@ -1,0 +1,35 @@
+Texans end losing streak in OT after Vinatieri sets record	0,6,TEAM;37,46,PLAYER
+INDIANAPOLIS ( AP ) Ka'imi Fairbairn took advantage of his final chance Sunday .	0,12,CITY;15,17,ORG;20,36,PLAYER;72,78,DATETIME
+The third - year kicker missed a 59-yarder to win the game at the end of regulation , then a 37-yarder near the end of overtime . But the Indianapolis Colts had called timeout just before that one , and Fairbairn finally made the decisive kick as time expired to help Houston snap the league 's longest losing streak with a 37 - 34 victory at Indianapolis .	138,156,TEAM;203,212,PLAYER;268,275,TEAM;343,355,TEAM
+' ' It was a rollercoaster . I was just trying to steady , '' Fairbairn said . ' ' That 's exactly what we needed . ''	62,71,PLAYER
+Nothing went according to the script .
+Just moments earlier , Adam Vinatieri , the NFL 's new career field goals leader , thought he might get to it .	23,37,PLAYER;44,47,ORG
+But after Andrew Luck bounced a short pass to Chester Rogers on fourth - and-4 from his own 43-yard line , Deshaun Watson got the ball back with 24 seconds left and no timeouts and found DeAndre Hopkins for a 24-yard completion to get Fairbairn into position .	10,21,PLAYER;46,60,PLAYER;107,121,PLAYER;187,202,PLAYER;235,244,PLAYER
+His first try sailed wide as the crowd roared . But coach Frank Reich called timeout in an effort to ice Fairbairn , who made the second one .	58,69,BOSS;105,114,PLAYER
+The bigger question , though , was about Reich 's decision to go for it rather than punt and settle for a tie .	41,46,BOSS
+' ' We 're not playing to tie , '' Reich said . ' ' We 're going for that 10 times out of 10 . That ( play ) has just got to work . ''	35,40,BOSS
+When it did n't , the Texans ' nine - game losing streak was over with their first win since Nov. 19 .	22,38,TEAM;93,100,DATETIME
+The most promising news for Houston ( 1 - 3 ) , though , was that Watson & Co. appeared to be in sync .	28,35,TEAM;66,72,PLAYER
+Watson finished 29 of 42 with 375 yards , two touchdowns and one interception while running six times for 41 yards and another score . He connected with Hopkins 10 times for 169 yards and a score , and Keke Coutee 11 times for 109 yards . And Watson made enough plays late in regulation and overtime to give Fairbairn a chance .	0,6,PLAYER;153,160,PLAYER;202,213,PLAYER;243,249,PLAYER;308,317,PLAYER
+The Texans ' defense harassed Luck all day , sacking him four times , limited Indy 's ground game to just 41 yards on 17 carries and converted two turnovers into 14 points .	4,10,TEAM;30,34,PLAYER;78,82,TEAM
+' ' It was very unconventional , but we 'll take it , '' J.J. Watt said after recording two more sacks and becoming the second - fastest in league history to 80 .	57,66,PLAYER
+It 's the third time in four weeks Indy ( 1 - 3 ) has fallen short in the closing minutes , this one spoiling Vinatieri 's milestone day .	35,39,TEAM;110,119,PLAYER
+The 45-year - old kicker became the league 's career leader in field goals when he made a 42-yarder with 2 seconds left in the first half . He extended the mark to 567 with a 44-yarder that gave Indy a 34 - 31 lead with 6 minutes left in overtime .	195,199,TEAM
+Vinatieri moved past Hall of Famer Morten Andersen , who had 565 career field goals .	0,9,PLAYER;21,34,AWARD;35,50,PLAYER
+But Fairbairn tied the score with a 29-yard kick and won it with the 37-yarder .	4,13,PLAYER
+Luck was 40 of 62 for a career - high 464 yards with four touchdowns and no interceptions but lamented his last throw .	0,4,PLAYER
+' ' I did not get the ball to Chester to make the play and I ' m sick about it , '' he said .	30,37,PLAYER
+Still , Luck gave Indy a chance after trailing 28 - 7 midway through the third quarter .	8,12,PLAYER;18,22,TEAM
+He threw a 14-yard TD pass to Nyheim Hines , a 5-yard TD pass to Eric Ebron and a 9-yard TD pass to Hines before tying the score at 31 with a 2-point conversion pass to Rogers with 45 seconds to go in regulation .	30,42,PLAYER;65,75,PLAYER;100,105,PLAYER;169,175,PLAYER
+Vinatieri 's overtime field goal gave Indy a 34 - 31 lead but the defense could n't close it out .	0,9,PLAYER;38,42,TEAM
+' ' Any time you win a game , no matter how you win it , it 's great , '' Hopkins said . ' ' We knew what we were up against . We had to go out and finish it . ''	74,81,PLAYER
+RECORD WATCH
+Vinatieri also tied Gary Anderson for the second - most field - goal attempts in league history with 672 , but he was n't the only record - breaker .	0,9,PLAYER;20,33,PLAYER
+Luck broke the Colts ' single - game franchise record for attempts , tied the franchise mark for completions , wound up second in franchise history for single - game yards and came within a whisker of tying the franchise 's largest regular - season comeback ( 21 ) .	0,4,PLAYER;15,20,TEAM
+Watt recorded two sacks in his second straight game , extending his own record to seven . And Coutee broke Andre Johnson 's franchise record for most receptions ( six ) in an NFL debut .	0,4,PLAYER;94,100,PLAYER;107,120,PLAYER;175,178,ORG
+INJURY REPORT
+Texans : Hopkins started despite dealing with thumb , ankle and hamstring injuries all week . Will Fuller V left with a hamstring injury late in the first half and linebacker Brian Peters did not return after injuring his ankle .	0,6,TEAM;9,16,PLAYER;94,107,PLAYER;175,187,PLAYER
+Colts : Hilton suffered a chest injury in the first half and cornerback Kenny Moore II left with a concussion . Hilton returned but left later after hurting his hamstring .	0,5,TEAM;8,14,PLAYER;72,86,PLAYER;112,118,PLAYER
+UP NEXT
+Texans : Host cross - state rival Dallas next Sunday night .	0,6,TEAM;34,40,TEAM;46,52,DATETIME
+Colts : Head to New England on Thursday night .	0,5,TEAM;16,27,TEAM;31,39,DATETIME

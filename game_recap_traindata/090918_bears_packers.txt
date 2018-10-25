@@ -1,0 +1,46 @@
+Rodgers returns from injury , Packers beat Bears 24 - 23	0,7,PLAYER;30,37,TEAM;43,48,TEAM
+GREEN BAY , Wis. ( AP ) Aaron Rodgers heard the applause after walking out of the stadium tunnel and back on to the field .	0,9,CITY;12,16,STATE;19,21,ORG;24,37,PLAYER
+The team doctor had checked out his left knee after the Green Bay Packers quarterback was carted off the field in the second quarter . Rodgers , it seemed , had avoided a major injury .	56,72,TEAM;135,142,PLAYER
+He was good to go . The adrenaline kicked in .
+' ' When I got the ovation , at that point , I said , ` We might as well win this thing , ' '' Rodgers recounted .	95,102,PLAYER
+The hobbling two - time NFL MVP threw three touchdown passes in the second half after returning from injury , and the Green Bay Packers overcame a 20-point deficit for a thrilling 24 - 23 win over the Chicago Bears on Sunday night .	24,27,ORG;28,31,AWARD;118,135,TEAM;201,214,TEAM;218,224,DATETIME
+Rodgers connected with receiver Randall Cobb for a catch - and - run through the secondary for a 75-yard touchdown and the go - ahead score with 2:13 left in the game .	0,7,PLAYER;32,44,PLAYER
+' ' Aaron Rodgers was remarkable . I just ca n't tell you how proud I am with him , '' coach Mike McCarthy said .	4,17,PLAYER;93,106,BOSS
+Nick Perry sacked the Bears ' Mitchell Trubisky on fourth - and-10 with 58 seconds to complete the comeback .	0,10,PLAYER;22,27,TEAM;30,47,PLAYER
+Against the archrival Bears . To start the Packers ' 100th season .	22,27,TEAM;43,50,TEAM
+Sunday marked the first time in franchise history that the Packers won after trailing by 17-plus points entering the fourth quarter , according to the Elias Sports Bureau .	0,6,DATETIME;59,66,TEAM;151,170,ORG
+The Packers posted the second - largest comeback in franchise history at Lambeau Field , behind only a rally from 21 points down to beat New Orleans on Sept. 17 , 1989 .	4,11,TEAM;73,86,VENUE;137,148,TEAM;152,167,DATETIME
+For Rodgers , this was special .	4,11,PLAYER
+' ' This will definitely go down as one my favorite memories , especially in this rivalry , '' Rodgers said .	95,102,PLAYER
+And especially because how awful the Packers played in the first half .	37,44,TEAM
+A Chicago defense featuring newly acquired star linebacker Khalil Mack dominated until the third quarter . Mack had a 27-yard interception return for a touchdown against backup quarterback DeShone Kizer in the second quarter .	2,9,TEAM;59,70,PLAYER;107,111,PLAYER;189,202,PLAYER
+A gimpy Rodgers returned in the second half and finally figured out the Bears . He also found Davante Adams and Geronimo Allison for touchdown passes .	8,15,PLAYER;72,77,TEAM;94,107,PLAYER;112,128,PLAYER
+He finished 20 of 30 for 286 yards , including 17 of 23 for 273 yards in the second half .
+' ' Obviously , that 's a tough one for us . It stings , '' coach Matt Nagy said after his Bears debut .	66,75,PLAYER;91,96,TEAM
+It was Rodgers ' first regular - season home game since Sept. 28 against the Bears . He was limited to seven games in 2017 because of a collarbone injury .	7,14,PLAYER;56,64,DATETIME;77,82,TEAM;118,122,DATETIME
+Mack nearly stole the show . He also stripped the ball for a turnover in the red zone off Kizer in the second quarter . Mack made an immediate impact in his first game since the Bears acquired the premier pass rusher in a blockbuster deal with the Oakland Raiders .	0,4,PLAYER;90,95,PLAYER;120,124,PLAYER;178,183,TEAM;248,263,TEAM
+The Bears led 20 - 0 at one point and their defense dominated until the second half .	4,9,TEAM
+Then Rodgers returned , and the Packers ' defense held the Bears in check .	5,12,PLAYER;32,39,TEAM;59,64,TEAM
+' ' I prepared all offseason for the first game of the season and I wanted to ... make an impact , '' Mack said . ' ' But you want to win these games . That 's the only thing on my mind . I hate losing . ''	102,106,PLAYER
+RODGERS INJURY	0,7,PLAYER
+Rodgers was hurt in the second quarter after slipping to the turf while under pressure from linebacker Khalil Mack and defensive lineman Roy Robertson - Harris . The lineman landed on Rodgers .	0,7,PLAYER;103,114,PLAYER;137,159,PLAYER;184,191,PLAYER
+The quarterback initially tried to get up , then went back down , and was attended to by trainers . He appeared to reach down for the back of his left leg . Rodgers then walked to the cart that took him up the Lambeau Field tunnel .	157,164,PLAYER;210,223,VENUE
+Rodgers had ACL surgery on his left knee while in college .	0,7,PLAYER
+McCarthy said he was prepared to go with Kizer to start the second half until getting the word from the team doctor in the tunnel .	0,8,BOSS;41,46,PLAYER
+' ' His performance speaks for itself , '' McCarthy said .	43,51,BOSS
+With limited mobility , Rodgers operated a no - huddle offense in the second half that kept him in the pocket .	24,31,PLAYER
+His right arm was just fine .
+' ' It was going to have to take something really catastrophic injury - wise to keep me off the field in the second half , '' Rodgers said .	126,133,PLAYER
+The Packers plan to run more tests on their QB on Monday , though Rodgers seems to think his availability for next week 's game against Minnesota is a foregone conclusion .	4,11,TEAM;50,56,DATETIME;66,73,PLAYER;136,145,TEAM
+' ' No , I 'm planning on playing , '' Rodgers said .	39,46,PLAYER
+FAST START
+An offensive - minded coach , Nagy had the aggressive Bears ' offense pushing the Packers around the field in the first half .	30,34,BOSS;54,59,TEAM;82,89,TEAM
+Mitchell Trubisky was 23 of 35 for 171 yards . He also ran for 32 yards on seven carries , including a 2-yard touchdown run in the first quarter .	0,17,PLAYER
+It turned out to be the only offensive touchdown the Bears would score all night .	53,58,TEAM
+The Packers ' defense , in new coordinator Mike Pettine 's first game , held the Bears to two field goals in the second half .	4,11,TEAM;43,55,BOSS;81,86,TEAM
+' ' You know we talked about finishing and we did n't do that , '' Nagy said .	67,71,BOSS
+ANTHEM
+There were no apparent signs of protest during the national anthem , when Bears players and coaches locked arms on the sideline .	74,79,TEAM
+UP NEXT
+Bears : Host the Seattle Seahawks next Monday .	0,5,TEAM;17,33,TEAM;39,45,DATETIME
+Packers : Host the Minnesota Vikings on Sunday .	0,7,TEAM;19,36,TEAM;40,46,DATETIME

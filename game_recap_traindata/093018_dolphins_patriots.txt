@@ -1,0 +1,44 @@
+Patriots stop skid , hand Dolphins 1st loss in 38 - 7 rout	0,8,TEAM;26,34,TEAM
+FOXBOROUGH , Mass. ( AP ) The Patriots ' losing streak is over .	0,10,CITY;13,18,STATE;21,23,ORG;30,38,TEAM
+And so is the Dolphins ' undefeated start .	14,22,TEAM
+Tom Brady threw for 274 yards and three touchdowns and the New England Patriots handed Miami its first loss of the season in a 38 - 7 rout on Sunday .	0,9,PLAYER;59,79,TEAM;87,92,TEAM;142,148,DATETIME
+It denied the Dolphins ( 3 - 1 ) their first 4 - 0 start since Hall of Fame coach Don Shula 's last season in 1995 .	14,22,TEAM;63,75,ORG;82,91,BOSS;110,114,DATETIME
+' ' I thought we got what we needed from our team today , '' Patriots coach Bill Belichick said .	61,69,TEAM;76,90,BOSS
+Brady improved to 15 - 1 as a starter against Miami .	0,5,PLAYER;46,51,TEAM
+' ' We had n't played well in the last weeks , '' Brady said . ' ' This game 's great . But you ' ve got ta turn the page . ''	50,55,PLAYER
+New England ( 2 - 2 ) may be doing that without one of its best players . Tight end Rob Gronkowski , one of Brady 's favorite targets , left the game in the third quarter with a right ankle injury and did not return .	0,11,TEAM;84,98,PLAYER;108,113,PLAYER
+It put a slight damper on an afternoon in which New England showed the kind of consistency on both sides of the ball that had been missing in back - to - back losses to Jacksonville and Detroit . Since 2002 , the Patriots are 8 - 0 after back - to - back losses .	48,59,TEAM;169,181,TEAM;186,193,TEAM;202,206,DATETIME;213,221,TEAM
+In its two losses , New England 's offense struggled to find its rhythm and sustain drives on third down .	20,31,TEAM
+It did both Sunday , taking advantage of a Dolphins defense that could n't seem to match the Patriots ' speed .	12,18,DATETIME;43,51,TEAM;93,101,TEAM
+Running back James White finished with a rushing and receiving touchdown . Rookie running back Sony Michel also rushed 25 times for 112 yards and his first career touchdown . It was perfect timing after Rex Burkhead went on injured reserve last week with a neck injury .	13,24,PLAYER;95,106,PLAYER;203,215,PLAYER
+Miami struggled in every phase and looked very much like the team that has lost 10 straight road games to New England .	0,5,TEAM;10,117,TEAM
+Ryan Tannehill finished 11 for 20 for 100 yards and an interception . He was pulled in the fourth quarter in favor of Brock Osweiler . Osweiler connected with Frank Gore for a 6-yard touchdown pass in the fourth quarter for Miami 's lone score .	0,14,PLAYER;118,132,PLAYER;135,143,PLAYER;159,169,PLAYER;224,229,TEAM
+' ' Not a lot went right for us , '' Tannehill said .	37,46,PLAYER
+Miami was just 3 of 11 on third down and managed only 172 total yards . The Dolphins also had two turnovers and were whistled for 10 penalties , totaling 89 yards	0,5,TEAM;76,84,TEAM
+' ' I feel like it 's nothing they did , '' running back Kenyan Drake said . ' ' I felt like we out there and the penalties and all those things killed us . ''	57,69,PLAYER
+Miami had a strong start on defense , intercepting Brady on New England 's second offensive series .	0,5,TEAM;51,56,PLAYER;60,71,TEAM
+But following a quick Dolphins ' punt , the Patriots bounced back with a 55-yard TD pass from Brady to Cordarrelle Patterson to take a 10 - 0 lead .	2,30,TEAM;44,52,TEAM;94,99,PLAYER;103,124,PLAYER
+The 55-yard pass was New England 's longest play of the season . Patterson caught the pass over his shoulder along the sideline and stutter - stepped past safety T.J. McDonald to find a clear path to the end zone .	21,32,TEAM;65,74,PLAYER;162,175,PLAYER
+Then about midway through the second quarter , Tannehill fumbled a snap to begin a series that was recovered by Patriots linebacker Kyle Van Noy on the Dolphins 2 . White ran it in for a touchdown on the next play to make it 17 - 0 .	47,56,PLAYER;112,120,TEAM;132,144,PLAYER;152,160,TEAM;165,170,PLAYER
+The Patriots then ended the half with a 15-play , 85-yard drive capped by an acrobatic touchdown grab in the end zone by Phillip Dorsett .	4,12,TEAM;121,136,PLAYER
+Dorsett , who had no catches in last week 's loss to Detroit , finished with four catches for 55 yards .	0,7,PLAYER;53,60,TEAM
+GORDON DEBUTS	0,6,PLAYER
+Patriots receiver Josh Gordon made his debut Sunday , marking his first playing time in New England since his trade from the Cleveland Browns on Sept. 17 .	0,8,TEAM;18,29,PLAYER;45,51,DATETIME;88,99,TEAM;125,141,TEAM;145,153,DATETIME
+Gordon made his first reception at the 7:27 mark of the first quarter , hauling in a 13-yard grab .	0,6,PLAYER
+New England dealt for the embattled receiver about 48 hours after the Browns announced their intention to cut ties with him , saying they had ' ' reached a point where we feel it 's best to part ways and move forward . ''	0,11,TEAM;70,76,TEAM
+Gordon was inactive in Week 3 in New England 's loss to Detroit with a hamstring injury and was limited in practice this week .	0,6,PLAYER;23,29,DATETIME;33,44,TEAM;56,63,TEAM
+He finished with two catches for 32 yards .
+' ' I have no doubt I can take advantage of this opportunity , '' Gordon said . ' ' I ' m more than blessed , I ' m extremely grateful to be in this scenario . I think the only thing right for me to do is take advantage of it . ''	66,72,PLAYER
+MR . 200
+Dolphins running back Frank Gore became the eighth running back in NFL history to appear in 200 NFL games .	0,8,TEAM;22,32,PLAYER;67,70,ORG;96,99,ORG
+Gore took the field in the first quarter of Miami 's matchup with the Patriots .	0,4,PLAYER;44,49,TEAM;70,78,TEAM
+With 14,124 rushing yards , Gore entered the day ranked fourth on the NFL 's all - time rushing list behind only Emmitt Smith ( 18,335 ) , Walter Payton ( 16,726 ) and Barry Sanders ( 15,269 ) .	28,32,PLAYER;70,73,ORG;113,125,PLAYER;139,152,PLAYER;168,181,PLAYER
+SPREAD IT AROUND
+Patterson became the 70th different player to catch a touchdown pass from Brady .	0,9,PLAYER;74,79,PLAYER
+It tied Brady with Vinny Testaverde for the most players with a touchdown reception from a single quarterback in NFL history .	8,13,PLAYER;19,35,PLAYER;113,116,ORG
+INJURIES
+Dolphins center Daniel Kilgore left the game in the first half with an arm injury . Safety Bobby McCain left with a knee injury .	0,8,TEAM;16,30,PLAYER;91,103,PLAYER
+Patriots defensive lineman Adam Butler was helped off the field in the fourth quarter . Linebacker Elandon Roberts also limped off late .	0,8,TEAM;27,38,PLAYER;99,114,PLAYER
+UP NEXT
+The Dolphins visit Cincinnati next Sunday .	4,12,TEAM;19,29,TEAM;35,41,DATETIME
+The Patriots host the Colts on Thursday night .	4,12,TEAM;22,27,TEAM;31,39,DATETIME

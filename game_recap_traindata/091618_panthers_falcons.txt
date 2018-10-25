@@ -1,0 +1,39 @@
+Ryan shines with arm and legs , Falcons beat Panthers 31 - 24	0,4,PLAYER;32,39,TEAM;45,53,TEAM
+ATLANTA ( AP ) The quarterback took off running , only to find three defenders waiting for him at the goal line .	0,7,CITY;10,12,ORG
+No problem . He simply ran right over them .
+Cam Newton ?	0,10,PLAYER
+Nope , Matt Ryan .	7,16,PLAYER
+Ryan threw a pair of scoring passes , which was n't all that unusual , and also ran for two touchdowns for the first time in his career , leading the Atlanta Falcons to a 31 - 24 victory over the Carolina Panthers on Sunday .	0,4,PLAYER;150,165,TEAM;196,213,TEAM;217,223,DATETIME
+' ' I ca n't remember the last time I had two TDs , '' Ryan said with a smile .	55,59,PLAYER
+Newton was rocked early on by cheap shot from Damontae Kazee , who was thrown out of the game for the helmet - to - helmet hit while the Panthers quarterback was sliding at the end of the run . Newton was able to stay in the game , throwing a pair of touchdown passes , and he had one last chance to send the game to overtime .	0,6,PLAYER;46,60,PLAYER;137,145,TEAM;194,200,PLAYER
+From the Falcons 31 , Newton lofted a pass into the end zone for D.J. Moore , who was double - covered and let the ball slip through his hands as time expired .	9,16,TEAM;22,28,PLAYER;65,75,PLAYER
+' ' I had a good shot at it , '' Moore said , ' ' but it just came down too fast . ''	33,38,PLAYER
+While Newton rushed for 42 yards , it was Ryan who had the most significant impact with his legs .	6,12,PLAYER;42,46,PLAYER
+After scoring on a 1-yard sneak that pushed Atlanta ( 1 - 1 ) to a 24 - 10 lead early in the third quarter , Ryan delivered the biggest blow with a gutsy scamper midway through the fourth quarter . Looking to throw on third - and-5 from the Carolina 8 , he spotted a running lane to the left and took off .	44,51,TEAM;109,113,PLAYER;241,249,TEAM
+There were three Carolina players waiting for him at the goal line - including 346-pound former teammate Dontari Poe - but Ryan leaped in the air and bowled them all over , falling across the goal line for the TD that restored Atlanta 's two - touchdown lead over the Panthers ( 1 - 1 ) .	17,25,TEAM;105,116,PLAYER;123,127,PLAYER;227,234,TEAM;268,276,TEAM
+' ' I did n't want to slide in that situation or go down because you do n't know where you 're going to be marked , '' he said . ' ' I felt something below my feet , and just went up the best I could . It was a good decision . ''
+Ryan finished 23 of 28 passing for 272 yards , a performance that took some of the heat off offensive coordinator Steve Sarkisian . Roundly panned for his play - calling last season and in a season - opening loss to Philadelphia , he got a bunch of people involved .	0,4,PLAYER;114,129,BOSS;216,228,TEAM
+Eight players caught passes . Six ran the ball including Tevin Coleman , who gained 107 yards on 16 carries filling in for injured Devonta Freeman .	57,70,PLAYER;131,146,PLAYER
+Just like that , the Falcons resembled the high - scoring team that made it all the way to the Super Bowl two seasons ago with Kyle Shanahan as the coordinator .	21,28,TEAM;95,105,GAME;127,140,BOSS
+The most telling possession for Atlanta came with the first half winding down . Ryan completed six straight passes to five receivers - none of them , amazingly enough , Julio Jones .	32,39,TEAM;80,84,PLAYER;169,180,PLAYER
+Tight end Austin Hooper had two catches for 15 yards , including an 8-yard touchdown with 22 seconds remaining that gave the Falcons a 17 - 10 halftime lead .	10,23,PLAYER;125,132,TEAM
+Backup receiver Marvin Hall had a 30-yard reception , while rookie Calvin Ridley hauled in a 22-yarder . The running backs also got into the passing game , with Coleman and rookie Ito Smith also making catches .	16,27,PLAYER;67,80,PLAYER;161,168,PLAYER;180,189,PLAYER
+Ridley , a first - round pick from Alabama , had his first career TD on an 11-yard pass in the second quarter .	0,6,PLAYER;35,42,TEAM
+CHEAP SHOT
+The Panthers were livid about Kazee 's hit on Newton , who was sliding to the turf at the end of a 10-yard run . Kazee came at him helmet - first , snapping back Newton 's head .	4,12,TEAM;30,35,PLAYER;46,52,PLAYER;113,118,PLAYER;162,168,PLAYER
+Carolina receiver Torrey Smith raced in to deliver a shot that sent Kazee to the turf , also drawing a personal foul penalty but not an ejection . Ricardo Allen jumped on top of Kazee to prevent any other Carolina players from going after him .	0,8,TEAM;18,30,PLAYER;68,73,PLAYER;147,160,PLAYER;178,183,PLAYER;205,213,TEAM
+Newton was quickly examined and returned to the field without missing a play .	0,6,PLAYER
+Afterward , he did n't seem too upset .
+' ' This game is n't fit for cheap shots like that , but at the end of the day you ca n't blame him , '' Newton said . ' ' He 's playing as hard as he can . I 'm playing as hard as I can . ''	105,111,PLAYER
+BALANCED FALCONS	9,16,TEAM
+Coach Dan Quinn wanted balance from his offense .	6,15,BOSS
+Mission accomplished .
+The Falcons ran the ball 32 times for 170 yards . They threw 28 passes for 272 yards , finishing with the second - most total yards ( 442 ) of Sarkisian 's 20-game tenure . Even more important , they scored on all four trips inside the red zone , a longstanding issue .	4,11,TEAM;143,152,BOSS
+This was the fifth time the Falcons have scored at least 30 points under Sarkisian , compared with 13 times in 19 games during the 2016 season . They have yet to score 40 points under their current coordinator ; Atlanta did it six times in Shanahan 's final season .	28,35,TEAM;73,82,BOSS;131,135,DATETIME;212,219,TEAM;240,248,BOSS
+INJURY REPORT
+The injuries continued to pile up for both teams , which already were dealing with several missing starters .
+The Falcons lost starting left guard Andy Levitre to an elbow injury , while backup defensive end Derrick Shelby left with a groin injury .	4,11,TEAM;37,49,PLAYER;98,112,PLAYER
+Carolina had a pair of starters in the secondary go down : strong safety Da'Norris Searcy ( concussion ) and cornerback Donte Jackson ( hamstring ) .	0,8,TEAM;73,89,PLAYER;120,133,PLAYER
+UP NEXT
+Panthers : Return home next Sunday to host the Cincinnati Bengals ( 2 - 0 ) , who have 10 days to prepare after playing this past Thursday night .	0,8,TEAM;28,34,DATETIME;47,65,TEAM;130,138,DATETIME
+Falcons : Play their second straight home game against an NFC South rival when the New Orleans Saints ( 1 - 1 ) visit Mercedes - Benz Stadium .	0,7,TEAM;58,67,ORG;83,101,TEAM;118,141,VENUE

@@ -1,0 +1,32 @@
+Smith , Peterson led Redskins to 24 - 6 victory at Arizona	0,5,PLAYER;8,16,PLAYER;21,29,TEAM;51,58,TEAM
+GLENDALE , Ariz. ( AP ) Alex Smith looked like his old self . So did Adrian Peterson .	0,8,CITY;11,16,STATE;19,21,ORG;24,34,PLAYER;69,84,PLAYER
+When the 34-year - old Smith was n't carving up the Arizona defense , the 33-year - old Peterson was running through it .
+The result was a 24 - 6 Washington victory on Sunday , coach Jay Gruden 's first win in a season opener in five tries , and it was even more dominant than the final score would indicate .	24,34,TEAM;46,52,DATETIME;61,71,BOSS
+' ' You guys put that monkey there . You guys kept reminding me about the dang 0 - 4 start , '' Gruden said . ' ' It counts as one game . I told our team we are 1 - 0 and now it is time we have to put back - to - back games together . ''	96,102,BOSS
+Smith and Peterson were playing their first game as Redskins and the two veterans made an impact from the start .	0,5,PLAYER;10,18,PLAYER;52,60,TEAM
+' ' I thought the way we came out moving the ball , finishing drives in the red zone was big , '' Smith said . ' ' It certainly started with running the football . I thought our O - line was dominant . ''	98,103,PLAYER
+Smith , acquired from Kansas City in the offseason to replace Kirk Cousins , completed 21 of 30 passes without an interception and had TD throws of 13 yards to Chris Thompson and 4 yards to Jordan Reed . Peterson rushed for 96 yards on 26 carries , including a 1-yard touchdown ru n.	0,5,PLAYER;22,33,TEAM;62,74,PLAYER;160,174,PLAYER;190,201,PLAYER
+' ' The sky is the limit ( for this offense ) , '' Peterson said . ' ' Alex is doing a great job running this offense and for the past couple of weeks I have seen these receivers go out in practice and grind . The offensive line speaks for itself and then you add C.T. ( Chris Thompson ) in there . That young guy got me going today . ''	51,59,PLAYER;71,75,PLAYER;264,268,PLAYER;271,285,PLAYER
+Peterson , who played for Arizona a year ago and signed with Washington as a free agent on Aug. 20 , finished his day with a 52-yard reception , but fumbled at the end of the play .	0,8,PLAYER;26,33,TEAM;61,71,TEAM;91,98,DATETIME
+The Redskins outgained the Cardinals 429 - 213 and had 30 first downs to Arizona 's 14 and it was even more one - sided before the Cardinals showed some life late in the game . Washington rushed for 182 yards to Arizona 's 68 .	4,12,TEAM;27,36,TEAM;73,80,TEAM;131,140,TEAM;177,187,TEAM;212,219,TEAM
+' ' The nemesis right now is just stopping the run , '' Wilks said . ' ' ... Tackling was an issue . ''	56,61,BOSS
+Arizona avoided a shutout when David Johnson ran 2 yards for a touchdown with 5:47 to play .	0,7,TEAM;31,44,PLAYER
+Johnson , who signed a three - year , $ 39 million contract extension with Arizona on Saturday night with $ 30 million guaranteed , carried nine times for 37 yards and caught five passes for 30 yards .	0,7,PLAYER;38,50,MONEY;75,82,TEAM;86,94,TEAM;106,118,MONEY
+' ' I 'm not even thinking about the contract , '' he said . ' ' I 'm thinking about the loss and what I did wrong , the mental errors , dropped catches and how bad I played . ''
+Sam Bradford , in his debut as Cardinals quarterback , was 20 of 34 for 153 yards and was intercepted once .	0,12,PLAYER;31,40,TEAM
+The Redskins manhandled the Arizona defense in a dominant first half to lead 21 - 0 at the break . And the Arizona team under the new coaching regime was booed roundly as it left the field .	4,12,TEAM;28,35,TEAM;107,114,TEAM
+The statistics were stunningly one - sided through the first two quarters : 261 yards for the Redskins to 36 yards for the Cardinals . Smith completed 17 of 20 passes for 171 yards and two touchdowns . Bradford , meanwhile , was 3 of 7 for 11 yards . Washington had the ball for 22 minutes , 57 seconds to the Cardinals ' 7:03 .	94,102,TEAM;123,132,TEAM;135,140,PLAYER;202,210,PLAYER;251,261,TEAM;310,319,TEAM
+' ' We had three possessions in the first half and we 're down 21 - 0 at halftime , '' Bradford said . ' ' It 's tough on the defense , it 's tough on the offense . ''	87,95,PLAYER
+Arizona got two first downs on its first possession and went three - and - out the only other two times it had the ball in the first half .	0,7,TEAM
+Washington , meanwhile , had touchdown drives of 80 , 73 and 92 yards behind a powerful rushing game and the efficient management of Smith .	0,10,TEAM;133,138,PLAYER
+The first scoring drive went 80 yards in 11 plays , Smith went 13 yards to Thompson on the first play of the second quarter for the score .	52,57,PLAYER;75,83,PLAYER
+After Arizona 's first three - and - out , Washington used up 9:06 in a 15-play , 73-yard drive , Peterson plowing in from the 1-yard line to make it 14 - 0 .	6,13,TEAM;43,53,TEAM;98,106,PLAYER
+The Cardinals went nowhere again and the Redskins took advantage of their last chance of the half .	4,13,TEAM;41,49,TEAM
+Smith completed 7 of 7 passes for 77 yards in a 10-play , 92-yard drive . Smith threw 4 yards to Reed for the touchdown and it was 21 - 0 with 8 seconds left in the half .	0,5,PLAYER;74,79,PLAYER
+INJURIES
+Three Washington players left the game with injuries .	6,16,TEAM
+Rookie wide receiver Cam Sims injured an ankle in the first quarter and was carted off the field . He did not return . Washington wide receiver Trey Quinn left in the third quarter , also with an ankle injury , and did n't return . Redskins safety Troy Apke left with a hamstring injury in the fourth quarter .	21,29,PLAYER;119,129,TEAM;144,154,PLAYER;232,240,TEAM;248,257,PLAYER
+Arizona right tackle Andre Smith left in the fourth quarter with an elbow injury .	0,7,TEAM;21,32,PLAYER
+UP NEXT
+Redskins : host Indianapolis next Sunday . Washington has n't started 2 - 0 since 2011 .	0,8,TEAM;16,28,TEAM;34,40,DATETIME
+Cardinals : play at the Los Angeles Rams next Sunday . Arizona lost at Los Angeles 33 - 0 last season .	0,9,TEAM;24,40,TEAM;46,52,DATETIME

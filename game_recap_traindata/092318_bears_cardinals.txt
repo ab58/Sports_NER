@@ -1,0 +1,36 @@
+Bears rally for 16 - 14 victory over winless Cardinals	0,5,TEAM;45,54,TEAM
+GLENDALE , Ariz. ( AP ) Another opportunistic day by the Chicago defense has the Bears at 2 - 1 and alone in first place in the NFC North for the first time since late in the 2013 season .	0,8,CITY;11,16,STATE;19,21,ORG;57,64,TEAM;81,86,TEAM;128,137,ORG;175,179,DATETIME
+The Arizona Cardinals , meanwhile , have joined the parade of teams with a rookie quarterback on the field .	4,21,TEAM
+Cody Parkey kicked his third field goal of the game , a 43-yarder with 4:31 to remaining , to rally the Bears to a 16 - 14 victory over the winless Cardinals on Sunday .	0,11,PLAYER;104,109,TEAM;148,157,TEAM;161,167,DATETIME
+' ' It does n't take a rocket scientist to realize we are winning games because of our defense , '' Chicago coach Matt Nagy said . ' ' They are playing fast right now . ''	100,107,TEAM;114,123,BOSS
+The Bears forced four turnovers on four consecutive Arizona possessions in the second half .	4,9,TEAM;52,59,TEAM
+Sam Bradford threw two first - quarter touchdown passes to put the Cardinals up 14 - 0 , but was replaced by rookie Josh Rosen after fumbling the ball away deep in Chicago territory late in the game .	0,12,PLAYER;67,76,TEAM;116,126,PLAYER;164,171,TEAM
+Rosen , the 10th overall pick in this year 's draft out of UCLA , drew a standing ovation from the Cardinals crowd as he jogged on the field .	0,5,PLAYER;59,63,TEAM;99,108,TEAM
+' ' I just told him to go get the win , '' Bradford said , ' ' be him , go out there and do what he is capable of , lead this team . ''	43,51,PLAYER
+Rosen drove Arizona past midfield , but on fourth - and-5 from the Bears 45 , his pass was intercepted by Bryce Callahan with 1:10 to play .	0,5,PLAYER;12,19,TEAM;67,72,TEAM;106,120,PLAYER
+Arizona got the ball back one more time . Chicago picked off Rosen again , this time returning it for a touchdown , but an offside penalty negated the play and the game ended with Rosen sacked by Sherrick McManis , who also had one of two of Bradford 's interceptions .	0,7,TEAM;42,49,TEAM;61,66,PLAYER;180,185,PLAYER;196,212,PLAYER;242,250,PLAYER
+' ' I threw a pick and almost a second pick-6 , '' Rosen said , ' ' so I 've got a lot to work on . ''	51,56,PLAYER
+Coach Steve Wilks said he made the quarterback change because ' ' I felt like we needed a spark . ''	6,17,BOSS
+As for the starter next game , ' ' We 're going to evaluate Josh as well as Sam . We 're going to watch the tape and we 'll see exactly what I want to do as far as moving forward with that . ''	60,64,PLAYER;76,79,PLAYER
+Clinging to a 14 - 13 lead , the Cardinals drove to the Chicago 21 early in the fourth quarter but the scrambling Bradford was tackled by Khalil Mack . Bradford fumbled and Danny Trevathan recovered at the Bears 16 .	33,42,TEAM;56,63,TEAM;114,122,PLAYER;138,149,PLAYER;152,160,PLAYER;173,188,PLAYER;206,211,TEAM
+' ' I knew he was going to have the ball in his right hand , got my head out of the way because that 's a big part of the rules nowadays , and tried to make a play , '' Mack said . ' ' It was what we worked on all week . ''	169,173,PLAYER
+Chicago , with the help of an unnecessary roughness penalty on Tre Boston , drove downfield and got the go - ahead field goal .	0,7,TEAM;63,73,PLAYER
+With a good share of the crowd cheering them on , the Bears ( 2 - 1 ) intercepted three passes and recovered one fumble . Arizona is 0 - 3 for the first time since 2004 .	54,59,TEAM;122,129,TEAM;164,168,DATETIME
+But it was the Cardinals getting off to a fast start .	15,24,TEAM
+Arizona 's offense , which had scored a total of six points in two lopsided losses entering the game , took the opening kickoff and went 75 yards in just five plays .	0,7,TEAM
+On third - and-4 from the Cardinals 29-yard line , Bradford connected with rookie Christian Kirk on a 30-yard play . Two plays later , Bradford found tight end Ricky Seals - Jones wide open for a 35-yard touchdown .	26,35,TEAM;51,59,PLAYER;82,96,PLAYER;135,143,PLAYER;160,179,PLAYER
+The Bears responded with a run - oriented drive to the Arizona 13 . But on third down , Bene Benwikere and Budda Baker , blitzing from each side , dropped Mitchell Trubisky for a 15-yard loss and Parkey 's 46-yard field - goal try was wide right .	4,9,TEAM;55,62,TEAM;88,102,PLAYER;107,118,PLAYER;155,172,PLAYER;196,202,PLAYER
+Arizona went three - and - out but on the next series , Robert Nkemdiche stripped the ball from Trubisky and Corey Peters recovered at the Chicago 21 .	0,7,TEAM;56,72,PLAYER;96,104,PLAYER;109,121,PLAYER;139,146,TEAM
+On the next play , Bradford threw 21 yards to David Johnson in the end zone to make it 14 - 0 .	19,27,PLAYER;46,59,PLAYER
+The Bears used 5:27 on an 11-play drive that stalled on the Arizona 2 and Chicago settled for a 20-yard field goal by Parkey to cut the lead to 14 - 3 . The driving included roughing - the - passer calls against Nkemdiche and Markus Golden that had Wilks livid on the sideline .	4,9,TEAM;60,67,TEAM;74,81,TEAM;118,124,PLAYER;212,221,PLAYER;226,239,PLAYER;249,254,BOSS
+FINALLY , A TD
+The Bears finally got in the end zone on Howard 's 1-yard run that cut Arizona 's lead to 14 - 10 with 6:16 left in the third quarter .	4,9,TEAM;41,47,PLAYER;71,78,TEAM
+Chicago went for it on fourth - and-1 at the Cardinals 19 and barely converted on a 1-yard shovel pass to Allen Robinson II .	0,7,TEAM;45,54,TEAM;106,123,PLAYER
+Tarik Cohen 's 17-yard run set up the score .	0,11,PLAYER
+MORE MACK	5,9,PLAYER
+Mack had another impressive day for the Bears with two sacks , a tackle for loss , a forced fumble and three quarterback hits .	0,4,PLAYER;40,45,TEAM
+INJURIES
+Chicago cornerback Prince Amukamara left the game in the third quarter with a hamstring injury .	0,7,TEAM;19,35,PLAYER
+UP NEXT
+Bears : are home against Tampa Bay on Sunday .	0,5,TEAM;25,34,TEAM;38,44,DATETIME
+Cardinals : host Seattle next Sunday .	0,9,TEAM;17,24,TEAM;30,36,DATETIME

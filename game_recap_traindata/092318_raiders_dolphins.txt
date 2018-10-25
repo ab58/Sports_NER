@@ -1,0 +1,30 @@
+Trick plays help unbeaten Dolphins beat Raiders 28 - 20	26,34,TEAM;40,47,TEAM
+MIAMI GARDENS , Fla. ( AP ) The Miami Dolphins had just tricked the Oakland Raiders one final time , and as Albert Wilson and Jakeem Grant sprinted side by side in the clear the final 30 yards toward the end zone for a clinching touchdown , they did n't wait to celebrate .	0,13,CITY;16,20,STATE;23,25,ORG;32,46,TEAM;68,83,TEAM;108,121,PLAYER;126,138,PLAYER
+While still on the run , the two Miami receivers exchanged a gleeful high - five .	33,38,PLAYER
+' ' Just NASCAR on grass , '' Grant said .	9,15,ORG;30,35,PLAYER
+The Dolphins looked even faster than that .	4,12,TEAM
+Wilson threw a 52-yard touchdown pass to put unbeaten Miami ahead midway through the fourth quarter , and then turned a short reception into a 74-yard score that sealed a 28 - 20 victory Sunday over winless Oakland .	0,6,PLAYER;54,59,TEAM;187,193,DATETIME;207,214,TEAM
+Miami coach Adam Gase used creative play - calling to overcome a wave of injuries and penalties , and a 17-minute deficit in time of possession . The Dolphins scored on a pair of shovel passes by Ryan Tannehill that each traveled less than a yard - one on the flip to Wilson , and an earlier similar pass that Grant caught before turning the corner for an 18-yard score .	0,5,TEAM;12,21,PLAYER;150,158,TEAM;196,210,PLAYER;268,274,PLAYER;310,315,PLAYER
+' ' We made some big plays when it mattered , '' Tannehill said . ' ' With the explosiveness we have , we just have to keep doing our job and not press . ''	49,58,PLAYER
+Thanks to all the flashy plays , the surprising Dolphins are 3 - 0 for only the third time since 1998 , with an early season showdown at AFC East rival New England next .	48,56,TEAM;97,101,DATETIME;137,145,ORG;152,163,TEAM
+' ' We 're on the right track , '' Tannehill said . ' ' Are we there yet ? No . But the patterns we 're establishing are going to take us there . ''	35,44,PLAYER
+The Raiders , led by first - year coach Jon Gruden , are 0 - 3 for the first time since 2014 , when they started 0 - 10 . They 've blown a second - half lead in all three defeats .	4,11,TEAM;40,50,BOSS;88,92,DATETIME
+Oakland outgained the Dolphins , and Derek Carr threw for 345 yards . But Xavien Howard intercepted him twice deep in Miami territory , and the Dolphins mounted a first - half goal line stand to stay in the game .	0,7,TEAM;22,30,TEAM;37,47,PLAYER;74,87,PLAYER;118,123,TEAM;144,152,TEAM
+' ' We got hurt on a trick play and did n't finish some drives in the red zone , '' Gruden said . ' ' That 's the story of the game . ''	84,90,BOSS
+Trickery gave the Dolphins their first lead in the fourth quarter . Tannehill handed off to Frank Gore , who tossed the ball to Wilson on an end - around . Wilson - a quarterback in high school - then lobbed the first pass of his NFL career to a wide - open Grant , who outmaneuvered two Raiders to the end zone .	18,26,TEAM;68,77,PLAYER;92,102,PLAYER;128,134,PLAYER;156,162,PLAYER;230,233,ORG;258,263,PLAYER;288,295,TEAM
+' ' I said he 'd better catch it , and he 'd better not get tackled , '' said Wilson , who became the fourth player with a TD pass and TD reception of at least 50 yards in a game . He joined Hall of Famer Jimmy Conzelman ( 1923 ) , Tom Tracy ( 1960 ) and David Patten ( 2001 ) .	78,84,PLAYER;191,204,AWARD;205,220,PLAYER;223,227,DATETIME;232,241,PLAYER;244,248,DATETIME;255,267,PLAYER;270,274,PLAYER
+Grant said the Dolphins work on the play every day in practice .	0,5,PLAYER;15,23,TEAM
+Following Howard 's second interception , Wilson scooted around the end after taking Tannehill 's short pitch and scored the clincher as he high - fived Grant .	10,16,PLAYER;42,48,PLAYER;85,94,PLAYER;153,158,PLAYER
+' ' We 've got guys who can do a lot of different things , '' Gase said . ' ' They can throw it , they can run it . ''	62,66,PLAYER
+INJURY REPORT
+Dolphins : DE William Hayes ( right knee ) was hurt when he sacked Carr and missed the second half . ... DE Andre Branch hurt his knee in the second half . ... TE A.J. Derby ( foot ) also sat out the second half . ... CB Bobby McCain was shaken up in the final minutes . ... LB Chase Allen suffered a foot injury in the first half . ... S Reshad Jones was inactive because of a shoulder injury .	0,8,TEAM;14,27,PLAYER;67,71,PLAYER;108,120,PLAYER;163,173,PLAYER;221,233,PLAYER;278,289,PLAYER;339,351,PLAYER
+Raiders : T Donald Penn ( concussion ) and S Karl Joseph ( lower leg ) sat out the second half . ... WR Seth Roberts was among Oakland 's inactives .	0,7,TEAM;12,23,PLAYER;45,56,PLAYER;104,116,PLAYER;127,134,TEAM
+JARRING
+Miami 's Kenny Stills took a big hit when he made a 34-yard touchdown reception in stride in the back of the end zone and slammed into the cushioned retaining wall .	0,5,TEAM;9,21,PLAYER
+COSTLY FLAGS
+Miami defensive tackle Akeem Spence was ejected in the second quarter for ripping off guard Kelechi Osemele 's helmet . Spence was penalized for unnecessary roughness , which negated a third - down sack by teammate Cameron Wake and led to an Oakland field goal .	0,5,TEAM;24,35,PLAYER;92,107,PLAYER;120,126,PLAYER;215,227,PLAYER;242,249,TEAM
+ANTHEM
+Stills and Wilson kneeled during the national anthem , and defensive end Robert Quinn raised his right fist . All three Dolphins have staged similar protests before their team 's other games this season .	0,6,PLAYER;11,17,PLAYER;73,85,PLAYER;120,128,TEAM
+UP NEXT
+Dolphins : Play next Sunday at New England , where they 've lost nine games in a row .	0,8,TEAM;31,42,TEAM
+Raiders : Return home to play Cleveland next Sunday .	0,7,TEAM;30,39,TEAM;45,51,DATETIME

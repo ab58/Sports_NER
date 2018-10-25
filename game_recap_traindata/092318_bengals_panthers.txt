@@ -1,0 +1,33 @@
+Newton 's 4 TDs lift Panthers over Bengals 31 - 21	0,6,PLAYER;21,29,TEAM;35,42,TEAM
+CHARLOTTE , N.C. ( AP ) Panthers coach Ron Rivera wanted a little something more from his offense , which is why he turned to his old boss Norv Turner as the team 's new coordinator this season .	0,9,CITY;12,16,STATE;19,21,ORG;24,32,TEAM;39,49,BOSS;139,150,BOSS
+Rivera , who once coached under Turner in San Diego , said he got exactly what he was hoping for Sunday .	0,6,BOSS;32,38,BOSS;42,51,TEAM;97,103,DATETIME
+Cam Newton threw for two touchdowns and ran for two others , Christian McCaffrey racked up a career - high 184 yards rushing and Carolina handed the Cincinnati Bengals their first loss of the season 31 - 21 behind a well - balanced offensive attack .	0,10,PLAYER;61,80,PLAYER;129,137,TEAM;149,167,TEAM
+' ' We want to impose our will , '' said Newton , who praised Turner 's play calling . ' ' We are a team that can attack a defense in many different ways . As the game progresses I see the body language of defenders and they are wearing down . ''	41,47,PLAYER;62,68,BOSS
+Newton completed 15 of 24 passes for 150 yards and ran for 36 yards as the Panthers ( 2 - 1 ) won their seventh straight home game going back to last season .	0,6,PLAYER;75,83,TEAM
+McCaffrey , who tied a franchise record with 14 receptions last week against Atlanta , did his damage on the ground this time . He surpassed his previous career high of 66 yards rushing and became the first player in franchise history to post a 100-yard receiving game and a 100-yard rushing game in back - to - back weeks .	0,9,PLAYER;77,84,TEAM
+Newton believes McCaffrey 's 28-carry outing will dispel myths he 's just a scat back .	0,6,PLAYER;16,25,PLAYER
+' ' He 's a total running back , '' Newton said . '' ... This is not a fluke . He has been doing this his entire career , collegiately and professionally . The fact that we have a special talent , you ca n't really gear in using packages for him . ''	36,42,PLAYER
+McCaffrey said the labels ' ' definitely '' bother him , but has learned to deal with them .	0,9,PLAYER
+' ' The more and more I go through this league I learn that it 's never been about proving anyone wrong or proving anybody right , '' McCaffrey said . ' ' It 's proving myself right , and that 's the biggest thing that I 've had to mentally take over as I continue to grow . ''	134,143,PLAYER
+When the Panthers were n't running McCaffrey , they used him as a decoy .	9,17,TEAM;35,44,PLAYER
+On one Turner play call , Newton sold a fake pass to McCaffrey and came back to the other side of the field to hit backup running back C.J. Anderson for a 24-yard touchdown on a screen play . The Panthers call it their Pony 21 set , which features McCaffrey and Anderson , a 1,000-yard rusher last season with Denver , in the backfield .	7,13,BOSS;26,32,PLAYER;53,62,PLAYER;135,148,PLAYER;196,204,TEAM;219,226,PLAY;248,257,PLAYER;262,270,PLAYER;310,316,TEAM
+' ' This is a different style of offense , the way they attack , '' Bengals coach Marvin Lewis said . ' ' We have to adjust and morph and play in it and make sure we stay sound in it . You have to be good for the whole ballgame . There were times we were perfect and times we were not . ''	68,75,TEAM;82,94,BOSS
+GREEN DAY	0,5,PLAYER
+Bengals wide receiver A.J. Green , who had three touchdowns last week against the Ravens , left on the third play in the third quarter with a groin injury when he was hit while trying to make a catch over the middle . He did not return .	0,7,TEAM;22,32,PLAYER;82,88,TEAM
+Green said after the game he was starting to feel better and expects to play next week against Atlanta .	0,5,PLAYER;95,102,TEAM
+' ' At first , I thought I 'd just knocked the air out of myself and just needed to catch my breath , '' Green said . ' ' When I got up and running , I was pretty sore . ''	105,110,PLAYER
+YOU GOTTA OBADA	10,15,PLAYER
+Efe Obada , the first player to make a 53-man roster from the recently formed NFL International Pathways Program , turned in a huge game in his first NFL appearance , getting an interception , a key fourth - quarter sack and two quarterback pressures on Dalton . One of his pressures was initially ruled sack - fumble in the second quarter , but later overturned by instant replay to an incomplete pass .	0,9,PLAYER;78,112,ORG;150,153,ORG;254,260,PLAYER
+DALTON 'S DAY	0,6,PLAYER
+Andy Dalton was 29 of 46 with two touchdowns , but was intercepted four times , including twice by rookie cornerback Donte Jackson . Carolina 's defense , which allowed 432 yards and 31 points to the Falcons last week , held the Bengals ( 2 - 1 ) to 66 yards rushing without Joe Mixon in the lineup .	0,11,PLAYER;117,130,PLAYER;133,141,TEAM;200,207,TEAM;229,236,TEAM;275,284,PLAYER
+ON THE FUMBLE
+Newton took a lot of heat for not jumping on a loose football in a Super Bowl 50 loss to the Denver Broncos , so he was n't going to risk losing another in the fourth quarter with the Panthers clinging to a 28 - 21 lead . After a strip sack , Newton beat three Bengals players to the ball to maintain possession .	0,6,PLAYER;67,80,GAME;93,107,TEAM;184,192,TEAM;243,249,PLAYER;261,268,TEAM
+' ' Come hell or high water I was going to get that fumble , how about that ? '' Newton said . ' ' I 'm just trying to create good habits . ''	81,87,PLAYER
+BOYD STEPS UP	0,4,PLAYER
+Tyler Boyd had a big game for the Bengals with six catches for 132 yards and a touchdown . Gio Bernard had 61 yards rushing on 12 carries and a touchdown , and five catches for 25 yards filling in for the injured Mixon .	0,10,PLAYER;91,102,PLAYER;213,218,PLAYER
+INJURIES :
+Bengals : Nose tackle Ryan Glasgow was carted off the field in the fourth quarter with a lower right leg injury and did not return .	0,7,TEAM;22,34,PLAYER
+Panthers : Panthers middle linebacker Luke Kuechly left in the fourth quarter with dehydration but received an IV in the locker room and returned to make an interception on a ' ' Hail Mary '' on the game 's final play .	0,8,TEAM;11,19,TEAM;38,50,PLAYER;179,188,PLAY
+UP NEXT :
+Bengals : Visit the Falcons next Sunday .	0,7,TEAM;20,27,TEAM;33,39,DATETIME
+Panthers : Have a bye next week , then host the Giants on Oct. 7 .	0,8,TEAM;48,54,TEAM;58,64,DATETIME

@@ -1,0 +1,36 @@
+Bengals rally late to spoil Luck 's return with 34 - 23 win	0,7,TEAM;28,32,PLAYER
+INDIANAPOLIS ( AP ) Cincinnati needed Clayton Fejedelem 's pinch - hitting skills Sunday .	0,12,CITY;15,17,ORG;20,30,TEAM;38,55,PLAYER;82,88,DATETIME
+He delivered with the perfect swing .
+The Bengals ' backup safety jarred the ball loose from Pro Bowl tight end Jack Doyle with less than 35 seconds left in the game . Fejedelem scooped up the loose ball and sprinted down the sideline to end Andrew Luck 's comeback hopes with an 83-yard touchdown return to preserve the Bengals ' 34 - 23 victory .	4,11,TEAM;55,63,GAME;74,84,PLAYER;130,139,PLAYER;204,215,PLAYER;283,290,TEAM
+' ' Really lucky he just turned , presented his chest and I saw the ball , '' Fejedelem said . ' ' I just tried to get down there and do whatever I could . It just kind of popped and the rest is history . ''	78,87,PLAYER
+It was an unlikely performance in the most unlikely circumstance .
+Fejedelem was pressed into service only after starting safety Shawn Williams became the first player this season to be ejected following a helmet - to - helmet hit on Luck .	0,9,PLAYER;62,76,PLAYER;167,171,PLAYER
+Fortunately for the Bengals , Fejedelem was ready for anything thrown his way .	20,27,TEAM;30,39,PLAYER
+He entered the game with 25 tackles in his first two NFL seasons , but finished with 10 tackles Sunday and even seemed to choreograph the head - first dive to cap his first NFL score .	53,56,ORG;173,176,ORG
+The victory ended Cincinnati 's eight - game losing streak in Indy , gave the Bengals their fourth win in the past five openers and ended Luck 's last gasp chance of a comeback in his first regular - season start in more than 20 months .	18,28,TEAM;62,66,TEAM;78,85,TEAM;138,142,PLAYER
+' ' It was relief at that point , '' Cincinnati quarterback Andy Dalton said after going 21 of 28 with 243 yards , two touchdowns and one interception . ' ' Them driving the ball down there like that , I was nervous . Our guys made a great play . It 's a big play to end it . ''	37,47,TEAM;60,71,PLAYER
+How desperate were the Bengals ?	23,30,TEAM
+With Indy trailing 27 - 23 , Luck took over with 3:52 to go and led the Colts to the Bengals 25 .	5,9,TEAM;29,33,PLAYER;72,77,TEAM;85,92,TEAM
+Indy then lost 5 yards on a pass on first down and faced third - and-15 after an incompletion on second down .	0,4,TEAM
+Doyle caught Luck 's third down pass near the Bengals 15 and appeared to have twisted his way to a first down when he got stood up by one Bengals defender and Fejedelem knocked the ball loose before Doyle 's knee hit the ground .	0,5,PLAYER;13,17,PLAYER;46,53,TEAM;138,145,TEAM;159,168,PLAYER;199,204,PLAYER
+' ' I messed it up , '' Doyle said . ' ' It stings . ''	24,29,PLAYER
+Luck was 39 of 53 for 319 yards , two TD passes and an interception on his first official throw of the season - an underthrown pass to Doyle inside the Bengals 5 .	0,4,PLAYER;135,140,PLAYER;152,159,TEAM
+But Luck helped stake the Colts to a 23 - 10 lead midway through the third quarter .	4,8,PLAYER;26,31,TEAM
+Then , just like last season , the Colts could n't close it out .	35,40,TEAM
+Dalton cut the deficit to six with a 38-yard TD pass to A.J. Green and the Bengals retook the lead on Joe Mixon 's leaping 1-yard scoring run with 11:07 left to play . Randy Bullock made it 27 - 23 with a 39-yard field goal with 3:57 to go .	0,6,PLAYER;56,66,PLAYER;75,82,TEAM;102,111,PLAYER;168,181,PLAYER
+And then Fejedelem ended the Colts ' hopes with one crucial hit .	9,18,PLAYER;29,34,TEAM
+' ' To make the strip and make the return is big , '' coach Marvin Lewis said .	60,72,BOSS
+NATIONAL ANTHEM
+The Colts and Bengals both refrained from any player protests while the national anthem was sung . And neither team had anyone in the locker room .	4,9,TEAM;14,21,TEAM
+STAT PACK
+Bengals : Mixon carried 17 times for 95 yards and five catches for 54 yards . Green caught six passes for 92 yards and Preston Brown picked off Luck on the Colts ' first possession of the game . Cincinnati was called for four personal fouls .	0,7,TEAM;10,15,PLAYER;78,83,PLAYER;119,132,PLAYER;144,148,PLAYER;156,161,TEAM;195,205,TEAM
+Colts : Adam Vinatieri made three field goals , missing a 55-yarder just before Cincinnati 's go - ahead score . He has 562 field goals , three short of Morten Andersen 's league record . Luck connected with nine receivers , led by Ryan Grant who had eight catches for 59 yards and Doyle who had seven catches for 60 yards .	0,5,TEAM;8,22,PLAYER;80,90,TEAM;153,168,PLAYER;188,192,PLAYER;232,242,PLAYER;282,287,PLAYER
+INJURY REPORT
+Bengals : Brown limped off the field late in the first half with an injured right ankle . Defensive tackle Andrew Billings also left with leg cramps late in the third quarter .	0,7,TEAM;10,15,PLAYER;107,122,PLAYER
+Colts : Indy did not play with longtime left tackle Anthony Castonzo ( hamstring ) , projected right tackle Denzelle Good ( knee / wrist ) or running back Marlon Mack ( hamstring ) . The Colts also lost cornerback Chris Milton in the second half after he entered the concussion protocol .	0,5,TEAM;8,12,TEAM;52,68,PLAYER;108,121,PLAYER;155,166,PLAYER;187,192,TEAM;214,226,PLAYER
+THEY SAID IT
+Bengals : ' ' You 're back , '' Lewis said he told Luck after the game .	0,7,TEAM;32,37,BOSS;51,55,PLAYER
+Colts : ' ' I was certainly a bit emotional before the game and I wish we would have won , '' Luck said . ' ' I think I was a little careless with the ball when we had a chance to put some points on the board and make it an insurmountable lead and we do n't do it .	0,5,TEAM;94,98,PLAYER
+UP NEXT
+Bengals : Head home to host Baltimore on Thursday night .	0,7,TEAM;28,37,TEAM;41,49,DATETIME
+Colts : Begin a two - game road trip against the NFC East by visiting Washington next Sunday .	0,5,TEAM;49,57,ORG;70,80,TEAM;86,92,DATETIME

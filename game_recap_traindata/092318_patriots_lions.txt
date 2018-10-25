@@ -1,0 +1,38 @@
+Matt Patricia - led Lions beat Bill Belichick , Patriots 26 - 10	0,13,BOSS;20,25,TEAM;31,45,BOSS;48,56,TEAM
+DETROIT ( AP ) Matt Patricia weaved his way through a crowd to hug the man who helped him live a dream .	0,7,CITY;10,12,ORG;15,28,BOSS
+Patricia beat mentor Bill Belichick , seemingly making all the right moves to help the Detroit Lions defeat the New England Patriots 26 - 10 Sunday night .	0,8,BOSS;21,35,BOSS;87,100,TEAM;112,132,TEAM;141,147,DATETIME
+' ' I 'm sure it meant a lot , his first win as a head coach , '' Detroit quarterback Matthew Stafford said . ' ' Probably no sweeter than to do it against your old team .	66,73,TEAM;86,102,PLAYER
+' ' We needed this one . ''
+The Lions ( 1 - 2 ) suddenly looked like a team with a plan on offense and defense under their first - year coach , and former New England assistant . They opened the season with a 31-point loss to the New York Jets at home and fell short in a comeback at San Francisco .	4,9,TEAM;127,138,TEAM;202,215,TEAM;256,269,TEAM
+Patricia was given a game ball by his players , but refused to relish in the moment .	0,8,BOSS
+' ' I 'm just happy for the guys , '' he said . ' ' They 're the ones who deserve it , '' he said .
+The Patriots ( 1 - 2 ) have had weaknesses exposed on both sides of the ball , losing two of their first three games for the first time since 2012 .	4,12,TEAM;142,146,DATETIME
+And , Belichick was in no mood to reflect on his former defensive coordinator earning his first win .	6,15,BOSS
+' ' My job is my football team , '' said Belichick , who is 14 - 9 against former assistants . ' ' That 's what I 'm worried about . That 's what I 'm concerned about . ''	41,50,BOSS
+Patricia and Patriots quarterback Tom Brady also hugged briefly at midfield after the game and other New England players made a point of connecting with their former coach .	0,8,BOSS;13,21,TEAM;34,43,PLAYER;101,112,TEAM
+Detroit was in control from the start , creating holes for rookie running back Kerryon Johnson and giving Matthew Stafford time to pass .	0,7,TEAM;79,94,PLAYER;106,122,PLAYER
+Johnson had 101 yards rushing on 16 carries , becoming the first player to reach the mark for the Lions since Reggie Bush ran for 117 yards against Green Bay on Nov. 28 , 2013 . Detroit 's 70-game stretch without a 100-yard rusher was the longest since the NFL - AFL merger .	0,7,PLAYER;98,103,TEAM;110,121,PLAYER;148,157,TEAM;161,175,DATETIME;178,185,TEAM;257,260,ORG;263,266,ORG
+' ' We knew we needed to run the ball and take some of the pressure off Stafford and the receivers if we wanted to win this game , '' Johnson said . ' ' The offensive line was hitting holes and we were attacking . That 's the most physical game they 've played all year , and we were able to take advantage of it . ''	72,80,PLAYER;134,141,PLAYER
+Brady pulled the Patriots within three points on a 10-yard TD pass to James White early in the third .	0,5,PLAYER;17,25,TEAM;70,81,PLAYER
+Detroit refused to let the five - time Super Bowl - winning quarterback get any closer .	0,7,TEAM;39,49,GAME
+Stafford responded with a 33-yard TD pass , capping a 10-play , 75-yard drive that took more than 6 minutes off the clock .	0,8,PLAYER
+Darius Slay picked off Brady 's pass at the Detroit 15 midway through the fourth quarter , helping the Lions seal the win .	0,11,PLAYER;23,28,PLAYER;44,51,TEAM;103,108,TEAM
+While Patricia and his players downplayed how much he could help them prepare for a team he helped coach the previous 14 years , Slay said it was a factor .	6,14,BOSS;129,133,PLAYER
+' ' He knows everything about that team and he made sure we knew it as well , '' Slay said .	81,85,PLAYER
+THE QBS
+Stafford was 27 of 36 for 262 yards with two touchdowns and an interception . Brady was 12 of 24 for 113 yards with a touchdown and an interception .	0,8,PLAYER;78,83,PLAYER
+THAT 'S COACHING
+Detroit ran the play clock down often in the second half , seemingly choosing to shorten the game and keep Brady off the field .	0,7,TEAM;107,112,PLAYER
+' ' That was a key part of the game , '' Patricia said . ' ' You certainly do n't want to give the ball back to them . ''	41,49,BOSS
+Fans booed at Ford Field when Patricia chose to kick a 38-yard field goal instead of going for it on fourth - and-1 .	14,24,VENUE;30,38,BOSS
+' ' Any points against a team like that is going to be a good thing , '' Stafford said . ' ' We had a positive drive and you would hate to come away from it with no points . ''	73,81,PLAYER
+Patricia also won a challenge , getting a call overturned that gave Stafford a 5-yard touchdown pass to put Detroit ahead 10 - 0 .	0,8,BOSS;68,76,PLAYER;108,115,TEAM
+ALMOST A LION	9,13,TEAM
+New England tight end Rob Gronkowski confirmed an ESPN report in which sources said he threatened to retire instead of being traded to Detroit in the offseason .	0,11,TEAM;22,36,PLAYER;50,54,ORG;135,142,TEAM
+' ' Yeah , it happened , '' Gronkowski said . ' ' Brady 's my quarterback . That 's all . I 'm not going anywhere without Brady . ''	28,38,PLAYER;50,55,PLAYER;122,127,PLAYER
+INJURY REPORT
+Patriots : WR Josh Gordon ( hamstring ) was inactive , delaying his New England debut , after warming up with teammates . S Patrick Chung and DE Trey Flowers were inactive because of concussions . RB Rex Burkhead left the game in the second half with a neck injury .	0,8,TEAM;14,25,PLAYER;68,79,TEAM;124,137,PLAYER;145,157,PLAYER;200,212,PLAYER
+Lions : DE Ezekiel Ansah ( shoulder ) was inactive .	0,5,TEAM;11,24,PLAYER
+UP NEXT
+Patriots : Hosts the AFC - East leading Miami Dolphins ( 3 - 0 ) .	0,8,TEAM;21,31,ORG;40,54,TEAM
+Lions : Play at Dallas ( 1 - 2 ) .	0,5,TEAM;16,22,TEAM

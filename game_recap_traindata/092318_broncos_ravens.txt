@@ -1,0 +1,40 @@
+Flacco shines as Ravens deal Broncos first loss , 27 - 14	0,6,PLAYER;17,23,TEAM;29,36,TEAM
+BALTIMORE ( AP ) Baltimore 's offensive line handled Von Miller , Joe Flacco took care of the football , and the Ravens sliced through Denver 's depleted defense .	0,9,CITY;12,14,ORG;17,26,TEAM;53,63,PLAYER;66,76,PLAYER;113,119,TEAM;135,141,TEAM
+Flacco found the time to throw for 277 yards and a touchdown , and the Ravens pushed aside the previously undefeated Broncos 27 - 14 Sunday .	0,6,PLAYER;71,77,TEAM;117,124,TEAM;133,139,DATETIME
+Baltimore ( 2 - 1 ) got 68 yards rushing from Alex Collins , but the line 's most ample contribution was giving Flacco time to pass against a defense led by Miller , who came in with an NFL - leading four sacks .	0,9,TEAM;46,58,PLAYER;112,118,PLAYER;157,163,PLAYER;186,189,ORG
+' ' That 's a stout run defense . We kept hammering in there and bled some yards , '' Ravens coach John Harbaugh said . ' ' But our pass protection really stepped up and did a great job . ''	86,92,TEAM;99,112,BOSS
+Flacco went 25 for 40 without an interception on a rainy afternoon . He threw 28 passes in the first half alone , when Baltimore took control .	0,6,PLAYER;119,128,TEAM
+Miller finished with two tackles and no sacks .	0,6,PLAYER
+' ' He 's able to get in there and make a ton of plays and change a game when you look at him on film , '' Flacco said . ' ' That was the biggest thing , just not letting him be a factor . ''	107,113,PLAYER
+Flacco 's success came against a Denver backfield that began the day without injured cornerback Adam Jones ( thigh ) and lost cornerback Tramaine Brock ( groin ) in the first quarter . As a result , rookie Isaac Yiadom saw significant playing time at right cornerback .	0,6,PLAYER;96,106,PLAYER;137,151,PLAYER;206,218,PLAYER
+' ' I think we kind of made it easy for them , '' Broncos safety Darian Stewart said . ' ' We gave them a lot of stuff . ''	50,57,TEAM;65,79,PLAYER
+Javorious Allen caught a 12-yard touchdown pass and ran for a score for the Ravens .	0,15,PLAYER;76,82,TEAM
+Baltimore made 20 first downs , totaled 342 yards and converted half its third - down attempts .	0,9,TEAM
+' ' That was n't the game we had intended for , '' Miller said . ' ' At times , we could n't get off the field as a defense . ''	51,57,PLAYER
+Denver ( 2 - 1 ) was coming off two home wins , both by virtue of fourth - quarter comebacks . This time , the Broncos could not rally after Allen 's 1-yard TD run made it 27 - 14 midway through the third quarter .	0,6,TEAM;111,118,TEAM;141,146,PLAYER
+The Broncos were flagged 13 times for 120 yards .	4,11,TEAM
+' ' We probably cost ourselves 20 points today on penalties , '' coach Vance Joseph said .	71,83,BOSS
+Denver 's lone turnover was just as costly . The Broncos were inside the Baltimore 5 with 9 minutes left before Case Keenum was intercepted by Patrick Onwuasor , whose 89-yard return for a touchdown was wiped out by a block in the back .	0,6,TEAM;49,56,TEAM;73,82,TEAM;112,123,PLAYER;143,159,PLAYER
+The Ravens took consolation in preventing Denver from getting within a touchdown .	4,10,TEAM;42,48,TEAM
+' ' That was a huge stop , '' said Harbaugh , who celebrated his 56th birthday in style .	35,43,BOSS
+The Broncos ' next drive ended at the Baltimore 11 , and the Ravens ran out the clock over the final three minutes .	4,11,TEAM;38,47,TEAM;61,67,TEAM
+Keenum completed 22 of 34 passes for 192 yards .	0,6,PLAYER
+Denver got a touchdown after blocking a punt and also swatted away a field goal try . Chris Harris Jr. took the second blocked kick 58 yards for a touchdown , but an illegal block nullified the second - quarter score .	0,6,TEAM;86,102,PLAYER
+On the ensuing series , Broncos rookie running back Phillip Lindsay was ejected for throwing a punch during the scramble for a fumble by Keenum .	24,31,TEAM;52,67,PLAYER;137,143,PLAYER
+' ' He 's obviously a big part of what we do offensively , '' Joseph said . ' ' Losing him , that 's a big deal . ''	62,68,BOSS
+A wild first half ended with Baltimore up 20 - 14 .	29,38,TEAM
+After Denver 's Joseph Jones blocked a punt to set up a 6-yard touchdown run by Royce Freeman , Collins ran in from the 6 for Baltimore .	6,12,TEAM;16,28,PLAYER;80,93,PLAYER;96,103,PLAYER;126,135,TEAM
+Broncos wide receiver Emmanuel Sanders made it 14 - 7 with a 35-yard end around , his first career rushing touchdown .	0,7,TEAM;22,38,PLAYER
+Justin Tucker sandwiched a pair of 52-yard field goals around a 12-yard touchdown throw by Flacco .	0,13,PLAYER;91,97,PLAYER
+Tucker now has six career games with multiple field goals of 50 yards or more , an NFL record . He has also connected on his last eight attempts from at least 50 yards .	0,6,PLAYER;83,86,ORG
+LEWIS RETURNS	0,5,PLAYER
+The Ravens welcomed back linebacker Ray Lewis , who was inducted into the Pro Football Hall of Fame in August following a 17-year career with Baltimore .	4,10,TEAM;36,45,PLAYER;74,99,ORG;103,109,DATETIME;142,151,TEAM
+After the players were introduced , the song ' ' Hot in Herre '' by Nelly boomed over the PA .	49,61,MUSIC_SONGTITLE;68,73,MUSIC_ARTIST
+Lewis emerged from the tunnel wearing his yellow Hall of Fame jacket and performed his trademark dance while the soggy crowd cheered .	0,5,PLAYER;49,61,ORG
+Lewis was presented with his Hall of Fame ring during a ceremony at halftime . He was joined by Jonathan Ogden , the Ravens ' other HOF member .	0,5,PLAYER;29,41,ORG;96,110,PLAYER;117,123,TEAM;132,135,ORG
+INJURIES
+Broncos : Stewart left in the second quarter with a shoulder injury but returned .	0,7,TEAM;10,17,PLAYER
+Ravens : MLB C.J. Mosley was inactive with a bruised knee .	0,6,TEAM;13,24,PLAYER
+UP NEXT
+Broncos : host Kansas City in an AFC West showdown Monday night , Oct. 1 .	0,6,TEAM;15,26,TEAM;33,41,ORG;51,57,DATETIME
+Ravens : travel to Pittsburgh for a Sunday night matchup between AFC North teams .	0,6,TEAM;19,29,CITY;36,42,DATETIME;65,74,ORG

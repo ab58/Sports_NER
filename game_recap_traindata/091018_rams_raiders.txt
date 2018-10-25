@@ -1,0 +1,33 @@
+Rams spoil Gruden 's return with 33 - 13 win over Raiders	0,4,TEAM;11,17,BOSS;50,57,TEAM
+OAKLAND , Calif. ( AP ) Once Jared Goff and the Los Angeles Rams offense got started after sitting out the entire preseason , they could n't be stopped .	0,7,CITY;10,16,STATE;19,21,ORG;29,39,PLAYER;48,64,TEAM
+Goff threw two touchdown passes , newcomer Marcus Peters returned an interception 50 yards for a touchdown and the Rams used a dominant second half to spoil coach Jon Gruden 's much - anticipated return to the Oakland sideline by beating the Raiders 33 - 13 on Monday night .	0,4,PLAYER;43,56,PLAYER;115,119,TEAM;163,173,BOSS;210,217,TEAM;242,249,TEAM;261,267,DATETIME
+' ' There was a little bit of feeling it out , seeing what they 're going to do , seeing what their scheme is , '' Goff said . ' ' I thought our defense did a great job of responding as well as our offense . I still do n't think we played up to our standards in the first half . Think the second half , we came out and we did . ''	115,119,PLAYER
+Goff and the rest of the offensive starters for the Rams ( 1 - 0 ) did n't play at all in the preseason , and many of the top defensive players also got little time on the field in the exhibition games .	0,4,PLAYER;52,56,TEAM
+That might have contributed to the shaky start . The Raiders ( 0 - 1 ) moved the ball relatively easily and the Rams struggled to finish drives . But Los Angeles flipped the script in the second half , outscoring Oakland 23 - 0 and showing why this team is considered one of the favorites in the NFC after last year 's breakthrough season that ended with a division title .	53,60,TEAM;150,161,TEAM;213,220,TEAM;296,299,ORG
+' ' I think for us to be able to go through a little bit of adversity and have to come back from behind going into the half , that was a good test of your resolve as a football team , '' coach Sean McVay said . ' ' It was certainly a good job by those guys and I thought the offense responded . ''	193,203,BOSS
+Gruden had his first game as coach of the Raiders ( 0 - 1 ) since the end of the 2001 season . He was traded to Tampa Bay after that season and beat the Raiders in the Super Bowl the following year . He has been announcing for ESPN for the past nine seasons before Oakland owner Mark Davis finally lured him back to the delight of Raiders fans .	0,6,BOSS;42,49,TEAM;81,85,DATETIME;112,121,TEAM;153,160,TEAM;168,178,GAME;227,231,ORG;265,272,TEAM;279,289,BOSS;331,338,TEAM
+But there were only boos by the end of the night after Peters iced the game with his touchdown return on Derek Carr 's third interception of the game .	55,61,PLAYER;105,115,PLAYER
+' ' It was a tale of two halves , '' Gruden said . ' ' Obviously we did not take care of the ball and that was a critical part of that football game . ''	37,43,BOSS
+Peters punctuated that with a celebratory dive into the end zone reminiscent of his close friend Marshawn Lynch .	0,6,PLAYER;97,111,PLAYER
+' ' I did the Beast Mode , '' Peters said . ' ' That 's what I did . ''	14,24,PLAYER;30,36,PLAYER
+Gruden 's second stint started well with the Raiders taking the opening kick and driving 75 yards for a touchdown on a 10-yard run by Lynch . The Rams had Lynch stood up at the 3 , but he powered his way into the end zone with help from a push by his offensive linemen .	0,6,BOSS;45,52,TEAM;134,139,PLAYER;146,150,TEAM;155,160,PLAYER
+Oakland managed just six points the rest of the way against a defense fortified by the offseason additions of former All - Pros Peters , Aqib Talib and Ndamukong Suh .	0,7,TEAM;117,127,AWARD;128,134,PLAYER;137,147,PLAYER;152,165,PLAYER
+Carr threw an interception in the end zone to John Johnson in the second quarter and another in the fourth when he tried to pull back a pass at the last minute only to have the ball slip out and float right to linebacker Cory Littleton	0,4,PLAYER;46,58,PLAYER;221,235,PLAYER
+' ' It was one of the dumbest plays you could have , '' Carr said . ' ' I knew what I should have done as soon as that play was over . ''	56,60,PLAYER
+The Rams matched the early score when Todd Gurley took a flip from Goff and raced 19 yards to the end zone . They took control in the second half .	4,8,TEAM;38,49,PLAYER;67,71,PLAYER
+Los Angeles tied it at 13 on a field goal by Greg Zuerlein on the opening drive of the third quarter and then took the lead for good on a 58-yard , four - play drive that featured two passes downfield to another offseason addition , Brandin Cooks , and then the 8-yard TD to Cooper Kupp .	0,11,TEAM;45,58,PLAYER;233,246,PLAYER;275,286,PLAYER
+MISSING MACK	8,12,PLAYER
+The Raiders barely touched Goff all night just over a week after trading star pass rusher Khalil Mack to Chicago for a package that included two first - round picks . Bruce Irvin had the only sack when Goff held the ball too long and there were few other pressures .	4,11,TEAM;27,31,PLAYER;90,101,PLAYER;105,112,TEAM;167,178,PLAYER;202,206,PLAYER
+TOUGH STARTS
+Gruden 's defeat dropped the league 's new head coaches to 0 - 7 in Week 1 .	0,6,BOSS;68,74,DATETIME
+FLAG DAY	0,8,HOLIDAY
+The Raiders once again had issues with penalties , committing 10 for 145 yards in the first half alone thanks to two long pass interference calls against Rashaan Melvin ( 37 yards ) and Dominique Rodgers - Cromartie ( 50 ) . That 's more yards in penalties than they had in any game during Gruden 's first four - year stint and the most in the first half for any team since at least 2000 . The Raiders had one penalty for 10 yards in the second half .	4,11,TEAM;154,168,PLAYER;186,215,PLAYER;290,296,BOSS;383,387,DATETIME;394,401,TEAM
+INJURIES
+Raiders long snapper Andrew DePaola injured his knee in the first quarter and did n't return . TE Lee Smith filled in and provided accurate snaps on two field goals . He had a high snap on a punt but Johnny Townsend leaped and brought it down with no issues . It was a far cry from the 2012 season opener when Jon Condo got hurt for Oakland and Travis Goethel came in and botched three snaps in a loss to the Chargers .	0,7,TEAM;21,35,PLAYER;98,107,PLAYER;200,215,PLAYER;286,290,DATETIME;310,319,PLAYER;345,359,PLAYER;409,417,TEAM
+' ' It was stressful , I ca n't even lie to you guys , '' Smith said . ' ' I 'm just glad they all got back there . ''	58,63,PLAYER
+Rams returner Pharoh Cooper left in the second half with an ankle injury .	0,4,TEAM;14,27,PLAYER
+ANTHEM
+Lynch sat once again during the national anthem . Lynch also sat for the anthem all of last season but never gave a reason for his decision .	0,5,PLAYER;50,55,PLAYER
+UP NEXT
+Rams : Host Arizona on Sunday .	0,4,TEAM;12,19,TEAM;23,29,DATETIME
+Raiders : Visit Denver on Sunday .	0,7,TEAM;16,22,TEAM;26,32,DATETIME

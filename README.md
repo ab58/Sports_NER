@@ -1,6 +1,6 @@
 Named Entity Recognition Modeling with Sports Articles!
 
-Hi everyone. This is my first dive into Python's spaCy library, which is designed for development ogf powerful industry-grade
+Hi everyone. This is my first dive into Python's spaCy library, which is designed for development of powerful industry-grade
 Natural Language Processing applications. I am trying out the basic tokenization pre-processing method, and then attempting the much
 more complex task of Named Entity Recognition (NER). For NER, pre-processing of text is usually minimal, since the loss of information
 such as capital letters, punctuation and stopwords all serve as vital anchors for predicting which words (or word sequences) are likely 

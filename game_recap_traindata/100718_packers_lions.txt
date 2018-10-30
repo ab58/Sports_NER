@@ -1,0 +1,31 @@
+Lions take advantage of mistakes in 31 - 23 win over Packers	0,5,TEAM;53,60,TEAM
+DETROIT ( AP ) The Detroit Lions took advantage of some mistakes they forced Green Bay to make and were fortunate some breaks simply went their way .	0,7,CITY;10,12,ORG;19,32,TEAM;77,86,TEAM
+Matthew Stafford threw two touchdown passes and LeGarrette Blount ran for two scores , lifting the Lions to a 31 - 23 win over the Packers on Sunday .	0,16,PLAYER;48,65,PLAYER;99,104,TEAM;131,138,TEAM;142,148,DATETIME
+Detroit ( 2 - 3 ) earned a win it desperately needed under first - year coach Matt Patricia , going into its bye week .	0,7,TEAM;78,91,BOSS
+' ' We get two weeks to 10 days to sit on whatever happens , '' said Stafford , who was 14 of 26 for 183 yards with two TDs and no turnovers . ' ' And , it feels a whole lot better with a win . ''	69,77,PLAYER
+Green Bay ( 2 - 2 - 1 ) was doomed because veteran Mason Crosby had the worst game of his life and two - time NFL MVP Aaron Rodgers lost two fumbles for just the third time in his 14-year career .	0,9,TEAM;51,63,PLAYER;110,113,ORG;114,117,AWARD;118,131,PLAYER
+' ' We just could n't overcome all the things we did wrong , '' Packers coach Mike McCarthy said . ' ' We did some good things in the second half , but you ca n't dig yourself that kind of hole . ''	64,71,TEAM;78,91,BOSS
+Crosby missed a career - high four field goals in one game and failed to make an extra point to boot . He connected on a field goal with 2 seconds left , but that was n't of much consolation after his poor performance .	0,6,PLAYER
+' ' I look back and I ' m thinking , in my childhood , in high school , this is definitely one of the worst ones , '' said Crosby , the first NFL kicker to miss four field goals in a game since 2010 .	123,129,PLAYER;142,145,ORG;194,198,DATETIME
+Detroit recovered an onside kick to seal the win , preventing Rodgers from getting another chance at a game - winning Hail Mary in Detroit like the one he threw in 2015 .	0,7,TEAM;62,69,PLAYER;118,127,PLAY;131,138,TEAM;164,168,DATETIME
+The Lions built a big lead in the first half , picking up where they left off in their last home game , a 16-point win over the New England Patriots .	4,9,TEAM;128,148,TEAM
+Blount had a pair of 1-yard TD runs in the first quarter and Stafford 's 8-yard pass to Marvin Jones late in the second quarter put Detroit up 24 - 0 .	0,6,PLAYER;61,69,PLAYER;88,100,PLAYER;132,139,TEAM
+Patricia , though , did n't think the Lions ' cushion was comfortable .	0,8,BOSS;38,43,TEAM
+' ' Unfortunately , I ' ve seen that quarterback on the other side there crush a lot of leads pretty quickly and come back , '' said Patricia , a former Patriots defensive coordinator .	133,141,BOSS;153,161,TEAM
+Rodgers , missing injured receivers Randall Cobb and Geronimo Allison , threw short TDs to rookie Marquez Valdes - Scantling and Lance Kendricks in the third to pull the Packers within 10 points .	0,7,PLAYER;36,48,PLAYER;53,69,PLAYER;98,124,PLAYER;129,144,PLAYER;170,177,TEAM
+Stafford answered with a 5-yard TD pass to Kenny Golladay early in the fourth quarter to give Detroit a 31 - 14 lead .	0,8,PLAYER;43,57,PLAYER;94,101,TEAM
+' ' It was big to chew up some time to give our defense a little bit of a rest and come away with some points , '' Stafford said .	115,123,PLAYER
+Rodgers connected with Davante Adams on a 12-yard throw for a third TD pass , but Crosby hit the left upright on the extra point to let the Lions keep an 11-point lead midway through the fourth quarter . Adams has scored in 10 straight road games , equaling a league record set by Tommy McDonald of the Philadelphia Eagles from 1959 to 1961 .	0,7,PLAYER;23,36,PLAYER;82,88,PLAYER;140,145,TEAM;204,209,PLAYER;281,295,PLAYER;303,322,TEAM;328,332,DATETIME;336,340,DATETIME
+Rodgers was 32 of 52 for 442 yards - the second - highest total of his career - with three TD passes .	0,7,PLAYER
+' ' We ' ve been a one - half team all year , '' he said . ' ' We need to do something about that . ''
+STREAKING
+The Lions , who did n't face Rodgers last year , have won three straight in the series for the first time the 1990 - 91 seasons .	4,9,TEAM;29,36,PLAYER;110,119,DATETIME
+SOUND STRATEGY
+Detroit had success on defense , going after Rodgers with just four players and dropping seven into coverage . Rodgers held onto the ball to wait for receivers to get open , but they could n't , and it led to three sacks and his two fumbles .	0,7,TEAM;45,52,PLAYER;111,118,PLAYER
+' ' They gave up rushers in order to extend plays , and they got some turnovers out of it , '' McCarthy said . ' ' We 're usually successful in those situations , but they did some good things . ''	95,103,BOSS
+INJURY REPORT
+Packers : LB Nick Perry ( ankle ) and CB Kevin King ( chin ) were hurt during the game .	0,7,TEAM;13,23,PLAYER;41,51,PLAYER
+Lions : RB Kerryon Johnson , who ran for 70 yards on 12 carries , went out in the fourth quarter after appearing to hurt his right ankle . CB Teez Tabor ( groin ) and CB Jamal Agnew ( knee ) also left the game with injuries .	0,5,TEAM;11,26,PLAYER;142,152,PLAYER;170,181,PLAYER
+UP NEXT
+Packers : Host San Francisco on Monday , Oct. 15 .	0,7,TEAM;15,28,TEAM;32,48,DATETIME
+Lions : Off until playing at Miami on Oct. 21 .	0,5,TEAM;29,34,TEAM;38,45,DATETIME

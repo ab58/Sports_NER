@@ -1,0 +1,37 @@
+Bills beat Titans 13 - 12 on Hauschka 's 46-yard field goal	0,5,TEAM;11,17,TEAM;29,37,PLAYER
+ORCHARD PARK , N.Y. ( AP ) Safety Jordan Poyer and the Buffalo Bills could n't care less about style points .	0,12,CITY;15,19,STATE;22,24,ORG;34,46,PLAYER;55,68,TEAM
+After being on the losing end of some lopsided decisions , an offensively challenged , field - goal - dominated 13 - 12 win over the Tennessee Titans on Sunday is all that mattered .	133,149,TEAM;153,159,DATETIME
+' ' Two - and - three is a lot better than 1 - 4 , '' Poyer said , referring to the Bills record . ' ' It 's never ugly when you win . ''	54,59,PLAYER;84,89,TEAM
+Stephen Hauschka overcame a botched field - goal attempt in the final minutes of the first half by hitting a 46-yard attempt as time expired . Running back LeSean McCoy broke from a September slump with 85 yards rushing - matching the combined total from his first three games .	0,16,PLAYER;156,168,PLAYER;182,191,DATETIME
+And Poyer helped anchor an injury - depleted secondary on a defense that forced three turnovers , held the Titans to 221 yards and limited them to scoring four field goals .	4,9,PLAYER;107,113,TEAM
+Buffalo bounced back from a 22 - 0 loss at Green Bay last weekend . Its defense showed improvement after surrendering 75 points over six quarters , starting with a 47 - 3 season - opening loss at Baltimore , followed by the first half of a 31 - 20 loss to the Los Angeles Chargers .	0,7,TEAM;43,52,TEAM;196,205,TEAM;160,180,TEAM
+' ' I think there was a glimpse of it , '' defensive tackle Kyle Williams said in suggesting the young , patchwork Bills are finding a hint of their identity .	60,73,PLAYER;115,120,TEAM
+The Titans ( 3 - 2 ) took a step backward in having a three - game win streak snapped , and squandered a chance for their best start since winning their first 10 games in 2008 .	4,10,TEAM;171,175,DATETIME
+Quarterback Marcus Mariota failed to show the flair he displayed last week in rallying the Titans to a 26 - 23 overtime win over the defending Super Bowl champion Philadelphia Eagles . Mariota finished 14 of 26 for 129 yards passing and an interception against Buffalo .	12,26,PLAYER;91,97,TEAM;143,153,GAME;163,182,TEAM;185,192,PLAYER;261,268,TEAM
+The Titans crossed midfield four times , with each drive ending with Ryan Succop hitting field goals .	4,10,TEAM;69,80,PLAYER
+' ' Not very good . Yeah , I mean we left one out there today , '' Mariota said . ' ' If you 're not ready to play , it does n't matter who you 're playing . ''	67,74,PLAYER
+The Titans ' best chance of finding the end zone slipped through their fingers early in the fourth quarter .	4,10,TEAM
+Facing third - and-4 at Buffalo 's 23 , Mariota avoided the pass rush and scrambled to his left , where he lobbed to receiver Nick Williams , who was wide open in the end zone . Williams had the pass drop through his hands while attempting to make an over - the - shoulder catch .	24,31,TEAM;40,47,PLAYER;126,139,PLAYER;178,186,PLAYER
+Tennessee settled for Succop hitting a 39-yard field goal to cut Buffalo 's lead to 10 - 9 .	0,9,TEAM;22,28,PLAYER;65,72,TEAM
+Bills quarterback Josh Allen was hardly better . The rookie first - round pick finished 10 of 19 for 82 yards and an interception , but did open the scoring on a 14-yard touchdown scamper .	0,5,TEAM;18,28,PLAYER
+Allen 's interception nearly cost the Bills midway through the fourth quarter . Late in finding Andre Holmes to his right , Allen 's pass was tipped and intercepted by Adoree ' Jackson at the Tennessee 46 .	0,5,PLAYER;38,43,TEAM;96,108,PLAYER;124,129,PLAYER;168,184,PLAYER;192,201,TEAM
+The Titans settled for Succop hitting a go - ahead 50-yard field goal after Mariota fumbled and was fortunate to have the ball bounce off his foot and roll out of bounds .	4,10,TEAM;23,29,PLAYER;76,83,PLAYER
+The Bills responded with an 11-play , run - dominated drive that covered the final 4:43 . McCoy and Ivory combined for 43 yards .	4,9,TEAM;90,95,PLAYER;100,105,PLAYER
+' ' That 's how it 's supposed to be , '' McCoy said , referring to a run - oriented game plan in which he had a season - best 24 carries . ' ' We stuck to it . ''	42,47,PLAYER
+BOTCHED CHANCE I
+The Bills botched a 30-yard field - goal attempt in the second quarter when rookie holder / punter Corey Bojorquez caught the snap and inexplicably stood up before suddenly kneeling in a bid to place the ball . Bojorquez then threw an incompletion .	4,9,TEAM;99,114,PLAYER;211,220,PLAYER
+Bojorquez hurt his right shoulder but returned for the second half .	0,9,PLAYER
+Bojorquez said he misunderstood what he heard from the coaches .	0,9,PLAYER
+Hauschka , meantime , had an inkling he might get a chance to win the game .	0,8,PLAYER
+' ' The pace of the game , I was going to be ready for it , and I wanted that opportunity , '' he said . ' ' I ' m glad I got a shot at it . ''
+BOTCHED CHANCE II
+The Titans followed Buffalo 's missed opportunity by settling for Succop matching a career high by hitting a 54-yard field goal as time expired . They had three timeouts left when penalized for delay of game while facing a third - and-4 at Buffalo 's 26 . They were backed up again on the next snap when Trent Murphy sacked Mariota for a 5-yard loss .	4,10,TEAM;20,27,TEAM;66,72,PLAYER;240,247,TEAM;304,316,PLAYER;324,331,PLAYER
+TURNOVERS
+Bills rookie linebacker Tremaine Edmunds and defensive end Shaq Lawson had forced fumbles , while rookie cornerback Taron Johnson had an interception . Buffalo has eight takeaways ( five forced fumbles and three interceptions ) in its past three games .	0,5,TEAM;24,40,PLAYER;59,70,PLAYER;116,129,PLAYER;152,159,TEAM
+Buffalo Bills coach Sean McDermott acknowledged he and GM Brandon Beane have considered signing 12-year veteran quarterback Derek Anderson , but stressed ' ' nothing is final at this point . '' McDermott and Beane were formerly with Carolina , where they both became familiar with Anderson , who spent the previous seven seasons with the Panthers . Buffalo is down to Allen and second - year player Nathan Peterman at quarterback after trading A.J. McCarron to Oakland on Sept. 1 .	0,13,TEAM;20,34,BOSS;58,71,BOSS;124,138,PLAYER;194,203,BOSS;208,213,BOSS;233,241,TEAM;281,289,PLAYER;338,346,TEAM;349,356,TEAM;368,373,PLAYER;399,414,PLAYER;444,457,PLAYER;461,468,TEAM;472,479,DATETIME
+INJURIES
+Titans : Two - time Pro Bowl LT Taylor Lewan did not return after hurting his foot in the second quarter . Titans were missing two starters with S Kenny Vaccaro ( right elbow ) and LB Wesley Woodyard ( shoulder ) inactive .	0,6,TEAM;20,28,GAME;32,44,PLAYER;107,113,TEAM;147,160,PLAYER;184,199,PLAYER
+Bills : Had just three healthy safeties in their lineup with starter Micah Hyde ( groin ) and backup Rafael Bush ( shoulder ) inactive .	0,5,TEAM;69,79,PLAYER;101,112,PLAYER
+UP NEXT
+Titans : Host Baltimore on Oct. 14 .	0,6,TEAM;14,23,TEAM;27,34,DATETIME
+Bills : At Houston on Oct. 14 for fourth road game in six weeks .	0,5,TEAM;11,18,TEAM;22,29,DATETIME

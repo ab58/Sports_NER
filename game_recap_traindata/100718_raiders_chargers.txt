@@ -1,0 +1,29 @@
+Rivers throws for 339 yards , 2 TDs as Chargers beat Raiders	0,6,PLAYER;39,47,TEAM;53,60,TEAM
+CARSON , Calif. ( AP ) The Los Angeles Chargers ' offense was stuck in neutral for the first 25 minutes of Sunday 's game against the Oakland Raiders . A broken play provided the needed spark .	0,6,CITY;9,15,STATE;18,20,ORG;27,47,TEAM;107,113,DATETIME;134,149,TEAM
+The game was tied 3 - 3 until Austin Ekeler took Philip Rivers ' swing pass and turned into a 44-yard touchdown . That was part of 19 straight points by the Chargers en route to their 26 - 10 victory over the Raiders .	30,43,PLAYER;49,62,PLAYER;157,165,TEAM
+' ' We were doing OK . We were n't playing great but that kind of sparked it , '' said Rivers , who threw for 339 yards and two touchdowns . ' ' We got another stop and then punched it in . I felt then we were in control the rest of the way . ''	87,93,PLAYER
+Rivers bobbled the shotgun snap on the first - and-10 play , but quickly corralled it and got it to Ekeler while three Oakland players were blitzing . The second - year running back eluded two Raiders at the 40 and then got a good block from Keenan Allen up the left sideline to score his third touchdown of the season with 4:04 remaining in the second quarter .	0,6,PLAYER;100,106,PLAYER;119,126,TEAM;242,254,PLAYER
+' ' I just saw the pressure coming off the edge . And it was a hot call , so it was coming to me right away , '' Ekeler said . ' ' I just ended up catching the ball and looking downfield from there . ''	113,119,PLAYER
+The Ekeler touchdown was one of four plays of 25 yards or more for the Chargers ( 3 - 2 ) , who are third in the league with 29 plays of 20 yards or more ; the Rams and Chiefs each have 30 .	4,10,PLAYER;71,79,TEAM;160,164,TEAM;169,175,TEAM
+All of that added up to Rivers ' 59th 300-yard passing game of his 15-year career and his eighth against the Raiders . He completed 22 of 27 passes and had a passer rating of 143.4 .	24,30,PLAYER;109,116,TEAM
+Melvin Gordon had 120 yards from scrimmage ( 58 rushing , 62 receiving ) . His 1-yard run during the second quarter gave Los Angeles ( 3 - 2 ) a 17 - 3 lead at halftime . The scoring drive started after Jahleel Addae recovered a Martavis Bryant fumble at the Raiders 45 .	0,13,PLAYER;121,132,TEAM;203,216,PLAYER;229,244,PLAYER;259,266,TEAM
+The Chargers ' defense had three sacks and forced two turnovers which resulted in 13 points . Oakland 's Marshawn Lynch came into the game fourth in the league in rushing but was held to 31 yards on nine carries .	4,12,TEAM;94,101,TEAM;105,119,PLAYER
+' ' It 's an energy game , man , and you got good energy built all around you , that 's what it is all about , '' Gordon said . ' ' We got to feel off that . That 's how we become a great team . ''	114,120,PLAYER
+Derek Carr was 24 of 33 for 268 yards for the Raiders ( 1 - 4 ) . He accounted for Oakland 's lone touchdown in the fourth quarter on a 1-yard pass to Jordy Nelson which brought the Raiders within 26 - 10 .	0,10,PLAYER;46,53,TEAM;83,90,TEAM;151,163,PLAYER;182,189,TEAM
+He also had a costly interception in the end zone to Melvin Ingram during the third quarter . The Chargers turned that into a 96-yard , eight - play drive that was capped with Rivers ' 13-yard TD pass to Virgil Green early in the fourth period .	53,66,PLAYER;98,106,TEAM;176,182,PLAYER;204,216,PLAYER
+' ' We had bad plays today , '' Raiders coach Jon Gruden said . ' ' I think we pressed a little bit . The play calling needs to improve . That 's my job . We ' ve got to play better collectively than we did today . ''	32,39,TEAM;46,56,BOSS
+HOME SWEET HOME ?
+The crowd at StubHub Center was predominantly Raiders fans , but it did n't matter to the Chargers , who have won seven of their last eight at their temporary home until the new stadium at Inglewood opens in 2020 .	13,27,VENUE;46,53,TEAM;90,98,TEAM;189,198,CITY;208,212,DATETIME
+In order to silence their ' ' home '' crowd , the Chargers did take the ball on offense after they won the coin toss . They turned that into a seven - play drive and a 49-yard field goal by Caleb Sturgis .	50,58,TEAM;190,203,PLAYER
+TWO FIRSTS FOR INGRAM	15,21,PLAYER
+Ingram 's third - quarter interception was his first in 82 regular - season games . He did have an interception in the 2013 playoffs against Cincinnati .	0,6,PLAYER;119,123,DATETIME;141,151,TEAM
+The seventh - year defensive end also got his first NFL carry in the second quarter on second - and - goal from the Oakland 1 but was stopped for no gain .	52,55,ORG;116,123,TEAM
+' ' I touch the ball all the time in practice . It was just fun , '' Ingram said . ' ' Being in the offensive huddle it felt like I was at home . ''	69,75,PLAYER
+NEW HOLDER , SAME RESULT
+The Chargers signed punter Donnie Jones to be the new holder for Sturgis , but Sturgis still missed an extra point .	4,12,TEAM;27,39,PLAYER;65,72,PLAYER;79,86,PLAYER
+Sturgis ' PAT attempt after the Green touchdown bounced off the upright for his fourth miss of the season and third in the past two games . The sixth - year kicker has missed four extra points this season , equaling the amount he had over three seasons in Philadelphia from 2015 - 17 .	0,7,PLAYER;32,37,PLAYER;256,268,TEAM;274,283,DATETIME
+Sturgis was also 2 of 3 on field goals . His 48-yard attempt on the last play of the first half was on line until it veered wide left at the last moment .	0,7,PLAYER
+' ' The extra point did bother me a little bit , but we 'll figure out what happened there , '' Chargers coach Anthony Lynn said . ' ' He 's been kicking with a lot of confidence , so I ' m not concerned about it . ''	96,104,TEAM;111,123,BOSS
+UP NEXT
+Raiders : face Seahawks next Sunday in London .	0,7,TEAM;15,23,TEAM;29,35,DATETIME;39,45,CITY
+Chargers : at Browns next Sunday .	0,8,TEAM;14,20,TEAM;26,32,DATETIME

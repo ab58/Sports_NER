@@ -1,0 +1,37 @@
+Crowell , big - play Jets romp past Broncos 34 - 16	0,7,PLAYER;21,25,TEAM;36,43,TEAM
+EAST RUTHERFORD , N.J. ( AP ) Isaiah Crowell ran all over the Denver Broncos ' suddenly leaky defense - and kept his touchdown celebration low - key this time around .	0,15,CITY;18,22,STATE;25,27,ORG;30,44,PLAYER;62,76,TEAM
+The New York running back ran for a franchise - record 219 yards , including a 77-yard touchdown , and Sam Darnold threw two TD passes to Robby Anderson , including a 76-yarder , to help the big - play Jets snap a three - game losing streak with a 34 - 16 victory over the Denver Broncos on Sunday .	4,12,TEAM;103,114,PLAYER;138,152,PLAYER;202,206,TEAM;273,287,TEAM;291,297,DATETIME
+' ' It means a lot to me , '' Crowell said . ' ' I ' ve got to give all the credit to my O - line . I ca n't really take the credit . Really , it was all them . I mean , the holes were open . Anybody could ' ve run through them . It just happened to be me .	30,37,PLAYER
+' ' They really set the record . ''
+Crowell needed just 15 carries to break the team record of 210 yards rushing set by Thomas Jones in 2009 against Buffalo . His 14.6 yards per carry set an NFL record for a player with at least 15 attempts , according to Elias Sports Bureau .	0,7,PLAYER;84,96,PLAYER;100,104,DATETIME;113,120,TEAM;220,239,ORG
+Bilal Powell added 99 yards rushing , and New York finished with 323 yards on the ground - second - most in team history - and 512 overall yards .	0,12,PLAYER;42,50,TEAM
+After an ugly 20-yard punt early in the second quarter by Colby Wadman , who replaced the injured Marquette King , the Jets ( 2 - 3 ) took advantage immediately . Crowell took the handoff , scooted to the left sideline and zipped into the end zone - getting some nice blocks from receivers Anderson , Pryor and Jermaine Kearse along the way - for a 77-yard yard touchdown that tied the game .	58,70,PLAYER;98,112,PLAYER;119,123,TEAM;163,170,PLAYER;290,298,PLAYER;301,306,PLAYER;311,326,PLAYER
+Crowell was fined $ 13,369 by the NFL and given a stern lecture from coach Todd Bowles for his crude TD celebration two weeks ago in Cleveland when he wiped his rear end with the football . This time , Crowell simply tossed the ball to the turf in the end zone .	0,7,PLAYER;18,26,MONEY;34,37,ORG;75,86,BOSS;133,142,TEAM;202,209,PLAYER
+' ' I did n't want to do anything that would cost my team a penalty , '' Crowell said .	73,80,PLAYER
+The Jets were just getting started with big plays .	4,8,TEAM
+On their next possession , Darnold found Anderson streaking down the field uncovered and connected for a 76-yard touchdown that put New York ahead 14 - 7 with 10:46 left in the half . It was the longest TD catch of Anderson 's career .	27,34,PLAYER;41,49,PLAYER;132,140,TEAM;215,223,PLAYER
+According to the Jets , it was the first time they have had multiple TDs on offense of 75 yards or more in the same game since Sept. 24 , 1972 , against the Baltimore Colts . Joe Namath tossed TD passes of 79 and 80 yards to Rich Caster in that one . It was the first time the Jets had a TD catch and a TD run of at least 75 yards .	17,21,TEAM;127,142,DATETIME;157,172,TEAM;175,185,PLAYER;225,236,PLAYER;277,281,TEAM
+' ' Every single week , we can do that , '' Darnold said . ' ' I ' m just really excited for next week . ''	44,51,PLAYER
+Darnold also had a TD toss to Terrelle Pryor that sealed the game late in the fourth quarter for the Jets . The rookie quarterback finished 10 of 22 for 198 yards and the three scores with an interception to help New York to its first win since the season opener .	0,7,PLAYER;30,44,PLAYER;101,105,TEAM;213,221,TEAM
+' ' It was really a team effort , '' Darnold said , ' ' and I could n't be more proud . ''	37,44,PLAYER
+The Jets ' defense came up big , too , while playing without coordinator Kacy Rodgers , who is dealing with what Bowles has called a ' ' serious '' illness . Bowles ran the defense against the Broncos and the Jets kept the pressure on Keenum all game , sacking him four times - including two by Leonard Williams .	4,8,TEAM;73,85,BOSS;113,119,BOSS;158,164,BOSS;193,200,TEAM;209,213,TEAM;235,241,PLAYER;295,311,PLAYER
+' ' We had our brother down and that was our message that we wanted to play for him , '' safety Jamal Adams said of Rodgers . ' ' I know he 's smiling right now . ''	96,107,PLAYER;116,123,BOSS
+They nearly had one more big play when Marcus Maye intercepted Keenum 's final pass and returned it 104 yards - the longest in team history - before being taken down by Courtland Sutton at the 1 to end the game .	39,50,PLAYER;63,69,PLAYER;169,185,PLAYER
+It was also the longest non - touchdown on an INT return , according to Elias .	72,77,ORG
+Keenum finished 35 of 51 for 377 yards with touchdown passes to Sutton and Demaryius Thomas for the Broncos ( 2 - 3 ) .	0,6,PLAYER;64,70,PLAYER;75,91,PLAYER;100,107,TEAM
+' ' We usually are a pretty stout defense , '' Broncos linebacker Von Miller said . ' ' Today , we were n't . We got gashed over the top two or three times today . It was a rough one . ''	47,54,TEAM;66,76,PLAYER
+SLOW START
+The Jets turned the ball over on their second play from scrimmage when Adam Gotsis knocked the ball out of Powell 's hands and recovered at New York 's 20 . Three plays later , Keenum found Sutton in the end zone from 8 yards out to give Denver a 7 - 0 lead .	4,8,TEAM;71,82,PLAYER;107,113,PLAYER;140,148,TEAM;177,183,PLAYER;190,196,PLAYER;238,244,TEAM
+It was Keenum 's first TD pass since Week 1 , when he had three in a win over Seattle , and the first touchdown reception of Sutton 's career .	7,13,PLAYER;37,43,DATETIME;78,85,TEAM;125,131,PLAYER
+STORMING BACK
+Keenum completed passes of 31 yards to Thomas and 24 to DaeSean Hamilton to put the Broncos at the Jets 7 , but New York came up with a red - zone stop and held Denver to a 30-yard field goal by Brandon McManus to make it 14 - 10 with 3:58 left in the half .	0,6,PLAYER;39,45,PLAYER;56,72,PLAYER;84,91,TEAM;99,103,TEAM;112,120,TEAM;161,167,TEAM;195,210,PLAYER
+On New York 's next possession , Darnold reared back from the 35 and fired a perfectly placed pass into the left corner of the end zone , where it dropped into Anderson 's hands just beyond a pursuing Bradley Roby for another touchdown .	3,11,TEAM;33,40,PLAYER;160,168,PLAYER;201,213,PLAYER
+' ' Anyone who saw the game knows it was n't good enough , '' Broncos safety Justin Simmons said of Denver 's defense . ' ' It 's not what we do . We ' ve got to be better . ''	62,69,TEAM;77,91,PLAYER;100,106,TEAM
+INJURIES
+Jets : CB Buster Skrine left in the first quarter with a concussion and did n't return . Skrine started in place of Trumaine Johnson , who was sidelined with a strained quadriceps .	0,4,TEAM;10,23,PLAYER;89,95,PLAYER;116,132,PLAYER
+Broncos : CB Adam Jones was ruled out in the second half after injuring a leg .	0,7,TEAM;13,23,PLAYER
+ANTHEM
+There were no individual protests by players on either team during the singing of the national anthem .
+UP NEXT
+Broncos : home vs. Los Angeles Rams next Sunday .	0,7,TEAM;19,35,TEAM;41,47,DATETIME
+Jets : home vs. Indianapolis Colts next Sunday .	0,4,TEAM;16,34,TEAM;40,46,DATETIME

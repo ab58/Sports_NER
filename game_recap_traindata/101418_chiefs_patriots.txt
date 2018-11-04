@@ -1,0 +1,40 @@
+Brady , Patriots top Chiefs for wild 43 - 40 win	0,5,PLAYER;8,16,TEAM;21,27,TEAM
+FOXBOROUGH , Mass. ( AP ) Tom Brady needed everything he had to fend off Patrick Mahomes - including his legs .	0,10,CITY;13,18,STATE;21,23,ORG;26,35,PLAYER;73,88,PLAYER
+Stephen Gostkowski hit a 28-yard field goal as time expired , and the New England Patriots beat the Kansas City Chiefs 43 - 40 on Sunday night after blowing a big halftime lead .	0,18,PLAYER;70,90,TEAM;100,118,TEAM;130,136,DATETIME
+Brady passed for 340 yards and a touchdown and ran for another score , diving head - first between two defenders in a rare run by the 41-year - old quarterback .	0,5,PLAYER
+' ' I got close to the goal line and I just figured I 'd try to get it in , '' Brady said of his late TD plunge . ' ' We needed it . ''	79,84,PLAYER
+New England 's third straight win was Brady 's 200th victory as a starting QB , tops all - time . He also passed former teammate Adam Vinatieri for most career wins in the regular season and playoffs combined with 227 .	0,11,TEAM;38,43,PLAYER;129,143,PLAYER
+Brady got some help from rookie Sony Michel , who rushed 24 times for 106 yards and two touchdowns in another solid performance .	0,5,PLAYER;32,43,PLAYER
+' ' It 's tough to slow those guys down , they 've been scoring a lot of points all year , '' Brady said . ' ' They 're gon na be pretty tough to stop . Glad we had our last shot and glad we took advantage of it . ''	94,99,PLAYER
+It was the first loss of the season for the Chiefs ( 5 - 1 ) , who were again let down by a defense that came in allowing an NFL - worst 462 yards per game .	44,50,TEAM;125,128,ORG
+New England ( 4 - 2 ) led 24 - 9 at intermission , but Mahomes directed an impressive rally for Kansas City . He finished 23 of 36 for 352 yards in his first loss as a starting quarterback , with three of his four TD passes going to Tyreek Hill .	0,11,TEAM;55,62,PLAYER;96,107,TEAM;233,244,PLAYER
+Mahomes threw two interceptions in the first half but was unflappable down the stretch . He found Hill for a 1-yard TD pass that made it 33 - 30 Kansas City with 8:38 left . With the Chiefs trailing 40 - 33 , he connected with Hill again for a 75-yard score that tied the game with just over three minutes remaining .	0,7,PLAYER;98,102,PLAYER;145,156,TEAM;183,189,TEAM;227,231,PLAYER
+' ' The last two weeks it seems like we just ca n't punch it in there and I feel like the second half we finally started getting it in the end zone , '' Mahomes said .	153,160,PLAYER
+Brady used a 16-yard pass to James White and a 39-yard completion to Rob Gronkowski to get New England into field - goal range .	0,5,PLAYER;29,40,PLAYER;69,83,PLAYER;91,102,TEAM
+After electrifying the NFL during the first five weeks of the season with his freewheeling style and big arm , Mahomes looked unsure of himself early on .	23,26,ORG;111,118,PLAYER
+He was able to complete some long passes to get the Chiefs into the red zone . But he turned the ball over twice in the first half and the high - scoring Chiefs were held to three field goals .	52,58,TEAM;154,160,TEAM
+Everything changed in the second half .
+First , Mahomes broke through with a 67-yard touchdown pass to Kareem Hunt . That was followed by a 14-yard TD strike to Hill that came on the heels of a fumble by Brady , helping trim New England 's lead to 27 - 26 entering the fourth quarter .	8,15,PLAYER;63,74,PLAYER;121,125,PLAYER;164,169,PLAYER;185,196,TEAM
+A 39-yard field goal by Gostkowski stretched New England 's lead to 30 - 26 .	24,34,PLAYER;45,56,TEAM
+But Kansas City kept coming .	4,15,TEAM
+Tremon Smith took the ensuing kickoff 97 yards down the sideline to the Patriots 3 , setting up Hill 's go - ahead TD .	0,12,PLAYER;72,80,TEAM;96,100,PLAYER
+The Patriots responded , using 42-yard pass from Brady to Chris Hogan to help set up a 4-yard touchdown run by Brady that put the Patriots back in front .	4,12,TEAM;49,54,PLAYER;58,69,PLAYER;111,116,PLAYER;130,138,TEAM
+Then , after forcing Kansas City into the first punt by either team on the night , Brady got the Patriots some breathing room when he hit Gronkowski for a 42-yard gain . The play set up 50-yard field goal by Gostkowski .	21,32,TEAM;83,88,PLAYER;97,105,TEAM;138,148,PLAYER;208,218,PLAYER
+The Chiefs also started 5 - 0 last season before losing six of their last 11 and falling in the wild - card round of the playoffs .	4,10,TEAM;96,113,PLAYOFF_ROUND
+But coach Andy Reid said he is confident his team has room to grow .	10,19,BOSS
+' ' We will learn a lot from this game , '' he said . ' ' We kind of shot ourselves in the foot a little bit early and you ca n't do that against a good football team . ''
+FIRST STRIKE
+The Chiefs extended their streak for scoring on their first possession in every game this season .	4,10,TEAM
+Harrison Butker connected on a 42-yard field goal with 9:05 left in the first quarter , capping an eight - play , 35-yard drive that began after the Patriots turned it over on downs .	0,15,PLAYER;149,157,TEAM
+PICKING IT OFF
+The Patriots now have at least one interception in each of their first six games of the season . New England 's last streak of six consecutive games with an INT was in 2013 .	4,12,TEAM;97,108,TEAM;168,172,DATETIME
+EDELMAN ENDS DROUGHT	0,7,PLAYER
+New England 's Julian Edelman caught a 17-yard touchdown pass in the second quarter , his first since January 22 , 2017 , in the AFC championship game against the Steelers	0,11,TEAM;15,29,PLAYER;102,119,DATETIME;129,132,ORG;163,171,TEAM
+In those 630 days , including the playoffs , Brady threw 54 touchdown passes to 11 different players .	45,50,PLAYER
+Edelman sat out the entire 2017 season after suffering a preseason knee injury . He missed the first four games this season while serving a suspension for violating the NFL 's policy on performance enhancers .	0,7,PLAYER;27,31,DATETIME;169,172,ORG
+INJURIES
+Chiefs : C Mitch Morse was evaluated for concussion in the second quarter and did not return .	0,6,TEAM;11,22,PLAYER
+Patriots : Right tackle Marcus Cannon left in the second half with a head injury and did not return .	0,8,TEAM;24,37,PLAYER
+UP NEXT
+The Chiefs return home to host Cincinnati .	4,10,TEAM;31,41,TEAM
+The Patriots go on the road for the third time this season when they visit the Bears .	4,12,TEAM;79,84,TEAM

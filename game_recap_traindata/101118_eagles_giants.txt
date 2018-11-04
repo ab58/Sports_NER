@@ -1,0 +1,32 @@
+Wentz throws 3 TD passes , Eagles look Super vs. Giants	0,5,PLAYER;27,33,TEAM;49,55,TEAM
+EAST RUTHERFORD , N.J. ( AP ) Breathe a little easier Philadelphia and surrounding areas . The Eagles are back and looking super .	0,15,CITY;18,22,STATE;25,27,ORG;54,66,CITY;95,101,TEAM
+Just goes to show you what a little urgency , some big plays - and a timely game against the New York Giants can do for the defending Super Bowl champions .	93,108,TEAM;134,144,GAME
+Carson Wentz threw a season - high three touchdown passes and the Eagles got an early lift from their defense and special teams in beating the struggling Giants 34 - 13 on Thursday night , avoiding their first three - game losing streak since the 2016 season .	0,12,PLAYER;66,72,TEAM;154,160,TEAM;172,180,DATETIME;247,251,DATETIME
+' ' It 's a big win for us , '' said Wentz , who finished 26 of 36 for 278 yards and no interceptions . ' ' NFC East and the conference . It 's huge . Being 3 - 3 is better than 2 - 4 . This is more like who we are . We can build from this . ''	37,42,PLAYER;108,116,ORG
+The win put the Eagles into a first place tie with Washington ( 2 - 2 ) in the NFC East with Dallas ( 2 - 3 ) a half game back . The Giants are fading fast .	16,22,TEAM;51,61,TEAM;79,87,ORG;93,99,TEAM;133,139,TEAM
+Wentz sandwiched touchdowns passes of 13 and 1 yard to Alshon Jeffery around a 10-yarder to tight end Zach Ertz to help the Eagles build a 31 - 6 lead . They beat the Giants ( 1 - 5 ) for the fourth straight time and seventh in eight games .	0,5,PLAYER;55,69,PLAYER;102,111,PLAYER;124,130,TEAM;167,173,TEAM
+Corey Clement scored on a 1-yard run and Jake Elliott added field goals of 33 and 30 yards .	0,13,PLAYER;41,53,PLAYER
+' ' This is finally the game where we played like the Philadelphia Eagles , '' said Ertz , who was limited to seven passes for 43 yards . ' ' We 're finally the Eagles again . ''	54,73,TEAM;84,88,PLAYER;161,167,TEAM
+Rookie halfback Saquon Barkley scored on a 50-yard run and rushed for 130 yards in one of the few bright spots for the Giants ' offense , which was booed repeatedly in losing at home for the third time . Aldrick Rosas had field goals of 33 and 21 yards .	16,30,PLAYER;119,125,TEAM;204,217,PLAYER
+This was seen as a must - win game for both teams in the weak and wide - open NFC East , and the Eagles went out and grabbed it .	78,86,ORG;97,103,TEAM
+They came into the game having scored seven points in the first quarter and they doubled that against New York .	102,110,TEAM
+Eli Manning was under pressure all night from the Eagles . They sacked him four times and hit him 13 other times . He finished 24 of 43 for 281 yards .	0,11,PLAYER;50,56,TEAM
+' ' We want to get after the passer every week , '' coach Doug Pederson said . ' ' These games are battles . It all comes down to which team gets after the passer . We hit Eli and put him on the ground . That was big . ''	58,71,BOSS;172,175,PLAYER
+It started on the opening series .
+Kamu Grugier - Hill intercepted Manning 's pass that was tipped by fellow linebacker Jordan Hicks and he returned it to Giants 16 . Three plays later , Wentz was forced out of the pocket and found Jeffery after getting all day to throw .	0,19,PLAYER;32,39,PLAYER;85,97,PLAYER;120,126,TEAM;197,204,PLAYER
+A 46-yard run by Barkley set up Rosas ' 33-yarder to cut the gap to 7 - 3 , but the Eagles took control later in the quarter after DeAndre Carter returned a punt 23 yards to the New York 44 . Passes of 17 to Jeffery and 14 to Clement set up Clement 's touchdown run .	17,24,PLAYER;32,37,PLAYER;84,90,TEAM;131,145,PLAYER;178,186,TEAM;208,215,PLAYER;226,233,PLAYER;241,248,PLAYER
+A spectacular tackle - breaking run by Barkley on a 55-yard screen pass helped cut the lead to 14 - 6 in the second quarter but Wentz hit a wide - open Nelson Agholer on a third and 3 and connected with Ertz for a 21 - 6 lead on the next play .	39,46,PLAYER;128,133,PLAYER;152,166,PLAYER;203,207,PLAYER
+Elliott made it 24 - 6 just before halftime and Philadelphia put the game out of reach with a 75-yard drive that ended with a short Jeffery TD catch .	0,7,PLAYER;48,60,TEAM;132,139,PLAYER
+' ' We did n't do anything well enough to win tonight , '' Giants coach Pat Shurmur said . ' ' Credit Philadelphia . Good football team . ''	59,65,TEAM;72,83,BOSS;102,114,TEAM
+The only thing meaningful after that was Barkley 's touchdown run .	41,48,PLAYER
+' ' How do I feel about my performance tonight ? '' Barkley asked rhetorically . ' ' Does n't matter to me . We did n't win . ''	52,59,PLAYER
+FAN OF THE GAME
+Odell Beckham Jr. headbutted a giant cooling fan during a second - half fit that also included him screaming from the sideline and eventually being calmed by Barkley . Beckham also left for the locker room before the end of the first half , though Shurmur said Beckham was excused early because of cramping .	0,17,PLAYER;158,165,PLAYER;168,175,PLAYER;248,255,BOSS;261,268,PLAYER
+Beckham said his tirade was just a bit of self - motivation .	0,7,PLAYER
+' ' I was just trying to get myself going , '' he said . ' ' I felt like some of those plays where I was getting myself going was some of my best stuff . So I was just trying to get myself fired up . I did that and it helped me . ''
+Thursday 's scene comes a week after Beckham bemoaned the lack of downfield passes from Manning and the team 's subpar energy following a 33 - 31 loss to Carolina . Beckham had six catches for 44 yards Thursday , and his longest reception was 12 yards .	0,8,DATETIME;37,44,PLAYER;88,95,PLAYER;154,162,TEAM;165,172,PLAYER;202,210,DATETIME
+INJURIES : Eagles LT Jason Peters left with a biceps injury . Backup cornerback Sidney Jones left in the first half with a hamstring injury . The Giants had LB Ray Ray Amstrong ( concussion ) , WR Cody Latimer ( hamstring ) and CB Antonio Hamilton ( illness ) leave the game .	11,17,TEAM;21,33,PLAYER;80,92,PLAYER;146,152,TEAM;160,176,PLAYER;197,209,PLAYER;231,247,PLAYER
+BARKLEY GAINS : Barkley has gained at least 100 yards from scrimmage in each of his first six career games . He is one off the NFL rookie record set by Kansas City 's Kareem Hunt .	0,7,PLAYER;16,23,PLAYER;127,130,ORG;152,163,TEAM;167,178,PLAYER
+UP NEXT
+Eagles : Host Carolina on Oct. 21 .	0,6,TEAM;14,22,TEAM;26,33,DATETIME
+Giants : At Atlanta on Oct. 22 .	0,6,TEAM;12,19,TEAM;23,30,DATETIME

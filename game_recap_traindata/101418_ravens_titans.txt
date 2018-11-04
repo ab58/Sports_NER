@@ -1,0 +1,40 @@
+Ravens pile up team - record 11 sacks , shut out Titans 21 - 0	0,6,TEAM;49,55,TEAM
+NASHVILLE , Tenn. ( AP ) The Baltimore Ravens posed for photos on the sideline as the clock ticked down the final seconds , making sure to remember the moment .	0,9,CITY;12,17,STATE;20,22,ORG;29,45,TEAM
+A franchise - record 11 sacks - one shy of the NFL record for a game - must be preserved and celebrated .	47,50,ORG
+Za'Darius Smith finished with a career - high three sacks , and Patrick Onwuasor got his first two this season as the Ravens shut down the Tennessee Titans 21 - 0 in the rain Sunday . They just missed matching the NFL record shared by five teams .	0,15,PLAYER;64,80,PLAYER;118,124,TEAM;139,155,TEAM;175,181,DATETIME;214,217,ORG
+' ' Just a historic defensive performance , '' Ravens coach John Harbaugh said .	47,53,TEAM;60,73,BOSS
+The Ravens started sacking Marcus Mariota on the opening drive , with eight different Ravens getting at least one sack . Four got their first of the season :	4,10,TEAM;27,41,PLAYER;86,92,TEAM
+- Nose tackle Chris Wormley got the first on the Titans ' sixth play .	14,27,PLAYER;49,55,TEAM
+- Smith got the second on the very next snap .	2,7,PLAYER
+- Safety Anthony Levine Sr . got No . 3 at the end of the first quarter .	9,28,PLAYER
+- Onwuasor notched No . 4 in the second quarter .	2,10,PLAYER
+- Smith followed again with his second two plays later .	2,7,PLAYER
+- Terrell Suggs got No . 6 on the next drive .	2,15,PLAYER
+- Safety Tony Jefferson sacked Mariota for No . 7 midway through the third .	9,23,PLAYER;31,38,PLAYER
+- Cornerback Tavon Young added No . 8 late in the third .	13,24,PLAYER
+- Linebacker Matthew Judon tied the franchise mark on the Titans ' first play in the fourth quarter .	13,26,PLAYER;58,64,TEAM
+- Onwuasor set a new mark on the Titans ' final first down .	2,10,PLAYER;33,39,TEAM
+- Smith finished with his third of the game and No . 11 overall on third - and-11 .	2,7,PLAYER
+Smith said the Ravens did n't know how many sacks they had until tying the team record of nine and were told they could break the record set Nov. 24 , 2011 , against San Francisco .	0,5,PLAYER;15,21,TEAM;141,155,DATETIME;166,179,TEAM
+' ' So we went and got two more , '' Smith said with a laugh .	37,42,PLAYER
+The Ravens even changed their Twitter handle to have an ' 'S '' for each sack .	4,10,TEAM;30,37,WEBAPP
+Dean Pees and the Titans simply could n't stop his old team as the Ravens outgained Tennessee 361 - 106 and punted only once against a defense led by their former defensive coordinator . Pees came out of a short retirement to join first - year head coach Mike Vrabel .	0,9,BOSS;18,24,TEAM;67,73,TEAM;84,93,TEAM;187,191,BOSS;255,266,BOSS
+Joe Flacco threw for 238 yards and a touchdown for Baltimore . Alex Collins scored on TD runs of 13 and 2 yards .	0,10,PLAYER;51,60,TEAM;63,75,PLAYER
+The Titans ( 3 - 3 ) lost their second straight and were shut out at home for the first time since leaving Houston for Tennessee in 1997 . Tennessee also has not scored a touchdown in eight straight quarters . The Ravens could n't have looked much better handing Tennessee its first shutout since Nov. 28 , 2010 .	4,10,TEAM;107,114,CITY;119,128,STATE;132,136,DATETIME;2139,148,TEAM;214,220,TEAM;263,272,TEAM;297,311,DATETIME
+' ' The Tennessee Titans did n't do nearly enough in all levels to win the football game , or even make it competitive , '' Vrabel said .	8,24,TEAM;124,130,PLAYER
+Marcus Mariota tried playing both with and without the partial glove covering his ring and pinkie fingers on his throwing hand . It did n't help as Mariota was sacked the most in his four - year NFL career .	0,14,PLAYER;148,155,PLAYER;195,198,ORG
+Mariota said he had never had a game like this . He ran twice for 25 yards and was 10 of 15 for 117 yards while being pummeled .	0,7,PLAYER
+' ' We 've got to do better , '' Mariota said .	33,40,PLAYER
+The Titans forced a turnover with All - Pro safety Kevin Byard getting his first interception this season . Tennessee did nothing with the ball late in the first half .	4,10,TEAM;34,43,AWARD;51,62,PLAYER;108,117,TEAM
+Baltimore executed nearly flawlessly from winning the coin toss . The Ravens converted 12 of 17 third downs , not counting another off a Titans penalty . They also held the ball for more than 37 minutes .	0,9,TEAM;70,76,TEAM;137,143,TEAM
+Flacco drove Baltimore 94 yards over 17 plays , eating up more than nine minutes of the first quarter before hitting Michael Crabtree on a 4-yard TD . Collins capped their next drive with a 13-yard run and a 14 - 0 lead early in the second quarter . After halftime , Collins finished off a 78-yard drive that ate up 7:20 of the third quarter .	0,6,PLAYER;13,22,TEAM;117,133,PLAYER;151,158,PLAYER;267,274,PLAYER
+The Ravens quarterback enjoyed watching his teammates ' defensive performance .	4,10,TEAM
+' ' It 's fun to watch when they 're over there doing those kind of things , '' Flacco said .	80,86,PLAYER
+INJURIES
+Ravens left guard Alex Lewis was taken to Vanderbilt University Medical Center with a neck injury after being hurt within the first minute of the fourth quarter . Lewis had been blocking on a run by Gus Edwards when he turned away from the pile slowly and went down . Trainers strapped him to a backboard and carted him off the field .	0,6,TEAM;18,28,PLAYER;42,78,ORG;163,168,PLAYER;199,210,PLAYER
+Harbaugh said there 's a lot of optimism for Lewis , who was getting a CT scan at the hospital .	0,8,BOSS;45,50,PLAYER
+' ' We said a prayer as a team for him when we came in , so that 's where our thoughts are right now with Alex , '' Harbaugh said .	106,110,PLAYER;116,124,BOSS
+Titans linebacker Derrick Morgan hurt a shoulder and did not return . Left guard Quinton Spain hurt his right shoulder with 6:51 left in the third quarter and did not return .	0,6,TEAM;18,32,PLAYER;81,94,PLAYER
+UP NEXT
+Ravens : Finally back home hosting New Orleans .	0,6,TEAM;35,46,PLAYER
+Titans : Franchise 's first game in London as road team against the Chargers .	0,6,TEAM;36,42,CITY;68,76,TEAM

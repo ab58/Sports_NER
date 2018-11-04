@@ -1,0 +1,41 @@
+Gurley runs for 208 yards in Rams ' 23 - 20 win over Broncos	0,6,PLAYER;29,33,TEAM;53,60,TEAM
+DENVER ( AP ) Not the wintry weather nor the Denver Broncos ' spongy defense could slow down Todd Gurley .	0,6,CITY;9,11,ORG;45,59,TEAM;93,104,PLAYER
+The Rams running back rumbled for a career - high 208 yards and two touchdowns on 28 carries and Los Angeles celebrated defensive coordinator Wade Phillips ' homecoming Sunday with a 23 - 20 win over the reeling Denver Broncos .	4,8,TEAM;97,108,TEAM;142,155,BOSS;169,175,DATETIME;212,226,TEAM
+' ' I would n't be able to do it without those guys up front , '' said Gurley , whose previous high was 159 yards at Green Bay in 2015 . ' ' It was kind of easy for me , honestly , because those guys did such a great job . ''	71,77,PLAYER;117,126,TEAM;130,134,DATETIME
+And Denver 's defense succumbed again .	4,10,TEAM
+A week after allowing 323 yards rushing in a loss to the Jets , including 219 by Isaiah Crowell , the Broncos were gashed for 270 yards on the ground .	57,61,TEAM;81,95,PLAYER;102,109,TEAM
+' ' We knew we were going to be a little bit leaky in the run today because the pass was our focus , '' Von Miller said . ' ' But 270 yards is just , you know , ridiculous . ''	104,114,PLAYER
+' ' We did n't tackle well . We did n't fit well , '' Broncos coach Vance Joseph said . ' ' That 's two weeks in a row - unacceptable . ''	54,61,TEAM;68,80,BOSS
+The Rams , who had surrendered 31 points in back - to - back games , improved to 6 - 0 in sending the Broncos ( 2 - 4 ) to their fourth straight loss .	4,8,TEAM;102,109,TEAM
+The Broncos pulled to 23 - 20 on Case Keenum 's 1-yard dart to Demaryius Thomas with 1:22 remaining , but Rams receiver Robert Woods knocked Brandon McManus ' onside kick out of bounds , and the Rams ran out the clock with Keenum 's one - time understudy Jared Goff ( 14 of 28 for 201 yards on his 24th birthday ) twice taking a knee .	4,11,TEAM;33,44,PLAYER;63,79,PLAYER;106,110,TEAM;120,132,PLAYER;141,156,PLAYER;195,199,TEAM;223,229,PLAYER;255,265,PLAYER
+Phillips was the Broncos ' beloved bandmaster when they were celebrating their Super Bowl 50 triumph , but his contract was n't renewed after the 2016 season and he joined Sean McVay in sunny Southern California .	0,8,BOSS;17,24,TEAM;79,92,GAME;146,150,DATETIME;172,182,BOSS;192,211,STATE
+After an overnight snowstorm , the game - time temperature of 25 degrees marked the second - coldest in Denver prior to November in franchise history .	104,110,CITY;120,128,DATETIME
+The cold did nothing to slow down Gurley , who scored his 10th and 11th touchdowns of the season .	34,40,PLAYER
+One was on a 10-yard run on fourth down that gave the Rams a 13 - 3 halftime lead , the other , a 1-yard run that made it 20 - 3 .	54,58,TEAM
+COSTLY FOUL
+Gurley 's first score came after a boneheaded move by Broncos receiver Emmanuel Sanders , who thought he had a 44-yard TD catch and jabbed a finger in cornerback Troy Hill 's face , drawing a taunting foul .	0,6,PLAYER;54,61,TEAM;71,87,PLAYER;162,171,PLAYER
+Upon review , Sanders was ruled down at the 1 , and the unsportsmanlike 15-yard penalty pushed the Broncos back to the 16 .	14,21,PLAYER;99,106,TEAM
+Instead of an extra point to give Denver a 7 - 6 lead , McManus ended up kicking a 28-yard field goal .	34,40,TEAM;56,63,PLAYER
+Sanders , who had a 22-yard TD catch in the second half , blamed himself for the loss .	0,7,PLAYER
+' ' Me , honestly , I feel like the league is getting soft , '' Sanders said . ' ' I 'm having fun . I did n't do anything crazy to the guy besides say , ` Hey , I got you on that play . ' I pointed my finger at him . And they threw the flag . ''	64,71,PLAYER
+He said he 's done that his whole career .
+' ' It was a great throw by Case . I came down with it . Emotions are high . It 's not like I walked up to him and head - butted him or something , '' Sanders said . ' ' But it cost my team . We lost by three points . I feel like we could have easily punched that ball in and gotten four ( more ) . I guess this loss is on me . ''	28,32,PLAYER;151,158,PLAYER
+STILL THE SAME
+Joseph promised changes this week but those alterations were either cosmetic or schematic - and , ultimately , fruitless .	0,6,BOSS
+Max Garcia replaced right guard Connor McGovern , but McGovern rotated back in and Garcia moved over when left guard Ronald Leary ( ankle ) got hurt in the third quarter .	0,10,PLAYER;32,47,PLAYER;54,62,PLAYER;83,89,PLAYER;117,129,PLAYER
+If the Broncos had better options , scuffling cornerback Bradley Roby - who again gave up big plays - and left tackle Garett Bolles - who was flagged for his NFL - high sixth holding call Sunday - also might have been benched .	7,14,TEAM;57,69,PLAYER;118,131,PLAYER;158,161,ORG;188,194,DATETIME
+Bolles and Garcia had holding calls that pushed Denver out of scoring range .	0,6,PLAYER;11,17,PLAYER;48,54,TEAM
+Roby took over Aqib Talib 's starting spot when the Broncos traded Talib to the Rams in the spring . Talib is sidelined by an ankle injury .	0,4,PLAYER;15,25,PLAYER;52,59,TEAM;67,72,PLAYER;80,84,TEAM;101,106,PLAYER
+Still , Talib made the trip with his teammates , walking with a boot on his left foot and a crutch under his right arm and was on the sideline during warmups .	8,13,PLAYER
+SACK ATTACK
+Miller snapped a three - week sackless streak with 1 1 - 2 sacks and rookie Bradley Chubb had three sacks .	0,6,PLAYER;76,89,PLAYER
+' ' It 's good that I get to the quarterback three times , but it 's not good enough , '' Chubb said .	90,95,PLAYER
+QUICK FIX ?
+The Broncos have a short week before going to Arizona on Thursday .	4,11,TEAM;46,53,TEAM;57,65,DATETIME
+' ' So , we ca n't get caught up on this game , as much as I want to , '' Miller said . ' ' I hate losing more than I love winning . ... The only good thing about this is we 're back in the lab tomorrow and we 've got a game on Thursday . ''	74,80,PLAYER;228,236,DATETIME
+INJURIES
+Rams WR Cooper Kupp was carted off the field after wrenching his left knee when Broncos S Darian Stewart horse - collared him on the Broncos sideline after a 12-yard jet sweep in the second quarter , but he made a surprising return in the second half . OLB Matt Longacre ( back ) and LT Andrew Whitworth ( possible concussion ) also left the game .	0,4,TEAM;8,19,PLAYER;80,87,TEAM;90,104,PLAYER;133,140,TEAM;257,270,PLAYER;287,303,PLAYER
+Broncos S Dymonte Thomas ( chest ) and Leary got hurt and did n't return .	0,7,TEAM;10,24,PLAYER;39,44,PLAYER
+UP NEXT :
+Rams : Wrap up three - game road swing with a visit to San Francisco .	0,4,TEAM;55,68,TEAM
+Broncos : Have a short week to get ready for a game at Arizona on Thursday night .	0,7,TEAM;55,62,TEAM;66,74,DATETIME

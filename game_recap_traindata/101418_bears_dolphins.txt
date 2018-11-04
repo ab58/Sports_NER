@@ -1,0 +1,32 @@
+Sanders kicks FG as Dolphins rally past Bears 31 - 28 in OT	0,7,PLAYER;20,28,TEAM;40,45,TEAM
+MIAMI GARDENS , Fla. ( AP ) Kicker Jason Sanders turned teammate Kenyan Drake 's fumble into a footnote .	0,13,CITY;16,20,STATE;23,25,ORG;35,48,PLAYER;65,77,PLAYER
+Drake lost the ball when the Miami Dolphins were on the verge of victory , but thanks to Sanders it did n't matter . The rookie made a 47-yard field goal as time expired in overtime Sunday for a 31 - 28 victory over the Chicago Bears .	0,5,PLAYER;29,43,TEAM;89,96,PLAYER;182,188,DATETIME;220,233,TEAM
+Miami 's Brock Osweiler threw for a career - high 380 yards and three touchdowns subbing for Ryan Tannehill , who sat out because of an injured throwing shoulder .	0,5,TEAM;9,23,PLAYER;93,107,PLAYER
+' ' Today felt like a heavyweight title fight , '' Osweiler said . ' ' What this team did today was so special . Nothing was perfect , but in the end we found a way . ''	51,59,PLAYER
+The Dolphins took the kickoff to start overtime and marched 74 yards , but Drake fumbled just before crossing the goal line . Eddie Goldman recovered for the Bears .	4,12,TEAM;75,80,PLAYER;126,139,PLAYER;158,163,TEAM
+They drove to the Miami 35 , but former Dolphin Cody Parkey was wide right on a 53-yard field goal try with 2 minutes left . Drake then had a 15-yard reception to help set up Sanders ' field goal .	18,23,TEAM;40,47,TEAM;48,59,PLAYER;125,130,PLAYER;175,182,PLAYER
+When the ball sailed between the uprights , Drake sank to both knees on the field and bowed his head in gratitude and relief .	44,49,PLAYER
+' ' That 's the great thing about this sport and this team : When you 're down , you 're never out , '' Drake said .	104,109,PLAYER
+Albert Wilson turned two short passes into long touchdowns in the fourth quarter for the Dolphins , who overcame an 11-point deficit in the final 16 minutes of regulation .	0,13,PLAYER;89,97,TEAM
+' ' It was definitely a roller coaster , '' Wilson said .	44,50,PLAYER
+Miami ( 4 - 2 ) , which began the day tied with New England for the AFC East lead , ended a two - game losing streak . Chicago ( 3 - 2 ) had a three - game winning streak snapped but remained atop the NFC North .	0,5,TEAM;48,59,TEAM;68,76,TEAM;119,126,TEAM;201,210,TEAM
+' ' Games like this sting , '' receiver Allen Robinson said . ' ' It stings for everybody . ''	40,54,PLAYER
+The Bears ' offense came alive after they trailed 7 - 0 at halftime . Miami then rallied from a 21 - 10 deficit to tie the game twice and force overtime .	4,9,TEAM;70,75,TEAM
+Mitchell Trubisky threw for 316 yards and three second - half touchdowns , but the Bears were hurt by two turnovers in the red zone . Jordan Howard lost a fumble at the 1 , and Trubisky was intercepted in the end zone by T.J. McDonald .	0,17,PLAYER;83,88,TEAM;134,147,PLAYER;177,185,PLAYER;221,234,PLAYER
+Trubisky a threw a 29-yard pass to Anthony Miller for a go - ahead score late in the fourth quarter , but Miami needed only one play to tie it again , with the dynamic Wilson weaving through the secondary for a 75-yard score .	0,8,PLAYER;35,49,PLAYER;106,111,TEAM
+Wilson earlier scored on a 43-yard catch and run .	0,6,PLAYER
+' ' Once I get going , I 'm going to make guys miss , '' Wilson said .	57,63,PLAYER
+Chicago 's Tarik Cohen scored on a 21-yard run and had a 50-yard catch and run . Kyle Fuller had two interceptions , the second of which set up a Bears touchdown .	0,7,TEAM;11,22,PLAYER;81,92,PLAYER;146,151,TEAM
+But Miami contained Khalil Mack , ending his streak of at least one sack and one forced fumble in every game this season . The Bears , who were averaging 4 1/2 sacks per game , totaled none .	4,9,TEAM;20,31,PLAYER;127,132,TEAM
+' ' That ai n't what you expect with what we have up front , '' said Mack , who was slowed by an ankle injury suffered early in the game .	69,73,PLAYER
+Miami netted 541 yards without Tannehill , who had been nursing a shoulder injury for several weeks . He worked out before the game , and it was then decided he should sit .	0,5,TEAM;31,40,PLAYER
+Frank Gore rushed for 101 yards . Osweiler , who signed with Miami as a free agent in March , went 28 for 44 and led the Dolphins to their highest point total of the year .	0,10,PLAYER;34,42,PLAYER;61,66,TEAM;86,91,DATETIME;121,129,TEAM
+' ' That 's why he 's here , '' coach Adam Gase said . ' ' He treats it as though he 's going to have to go in the game , so that puts him in a great position . ''	38,47,BOSS
+INJURY REPORT
+Dolphins : Miami had two defensive ends inactive and lost Jonathan Woodard ( concussion ) in the second quarter .	0,8,TEAM;11,16,TEAM;58,74,PLAYER
+Bears : CB Prince Amukamara ( left hamstring ) left in the second half .	0,5,TEAM;11,27,PLAYER
+ANTHEM
+Dolphins receivers Wilson and Kenny Stills kneeled during the national anthem , and defensive end Robert Quinn stood with a raised fist , as they 've done at earlier games this season . No Bears demonstrated during the anthem .	0,8,TEAM;19,25,PLAYER;30,42,PLAYER;98,110,PLAYER;189,194,TEAM
+UP NEXT
+Bears : host New England next Sunday	0,5,TEAM;13,24,TEAM;30,36,DATETIME
+Dolphins : home against Detroit next Sunday .	0,8,TEAM;24,31,TEAM;37,43,DATETIME
